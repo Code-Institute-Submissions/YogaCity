@@ -34,26 +34,36 @@
      
      <form class="signup-form" action="#" method="get">
        <h2>Sign up today!</h2>
+
+       <input type="radio" checked name="yoga_location" id="hoorn" value="hoorn">
+       <label for="hoorn">Hoorn</label><br>
+
+       <input type="radio"  name="yoga_location" id="alkmaar" value="alkmaar">
+       <label for="alkmaar">Alkmaar</label><br>
+
+       <input type="radio" name="yoga_location" id="zaandam" value="zaandam">
+       <label for="zaandam">Zaandam</label><br><br>
+       
+       <input type="radio" checked name="yoga_day" id="monday" value="monday">
+       <label for="monday">Monday</label><br>
+
+       <input type="radio" name="yoga_day" id="tuesday" value="tuesday">
+       <label for="tuesday">Tuesday</label><br>
+      
+       <input type="radio" name="yoga_day" id="wednesday" value="wednesday">
+       <label for="wednesday">Wednesday</label><br>
+
+       <input type="radio" name="yoga_day" id="thursday" value="thursday">
+       <label for="thursday">Thursday</label><br>
+      
+       <input type="radio" name="yoga_day" id="friday" value="friday">
+       <label for="friday">Friday</label><br>
+
        <label for="name"></label>
        <input class="text-input" type="text" required name="name" id="name" placeholder="Name"><br>
        
        <label for="email"></label>
        <input class="text-input" type="email" required name="email" id="email" placeholder="Email"><br>
-       
-       <input type="radio" checked name="yoga_preference" required="yoga_preference" id="road" value="hatha_monday">
-        <label for="road">Location 1</label><br>
-
-       <input type="radio" name="yoga_preference" id="bikram_tuesday" value="bikram_tuesday">
-       <label for="trail">Location 2</label><br>
-      
-       <input type="radio" name="yoga_preference" id="yin_wednesday" value="yin_wednesday">
-       <label for="both">Location 3</label><br>
-
-       <input type="radio" name="yoga_preference" id="bikram_thursday" value="bikram_thursday">
-       <label for="trail">Location 4</label><br>
-      
-       <input type="radio" name="yoga_preference" id="yin_friday" value="yin_friday">
-       <label for="both">Location 5</label><br>
        
        <input class="join-button" type="submit" value="Let's Yoga!">
     </form>
