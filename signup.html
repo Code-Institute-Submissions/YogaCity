@@ -10,11 +10,11 @@
   </head>
   <body>
   
+   <! --    HEADER    -->
 
-
-<header> 
+    <header> 
           <nav class="navbar navbar-expand-xl navbar-light">   
-            <div><h1 id="logo"><a class="navbar-brand" style="color:#bf9b30">Yoga City</a></h1></div>     
+            <div><h1 id="logo"><a class="navbar-brand logo_styling" style="color:#bf9b30">Yoga City</a></h1></div> 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -22,19 +22,21 @@
               <ul id="menu" class="navbar-nav ml-auto">
                   <li><a class="nav-link circle" href="index.html"><i class="fas fa-home"></i></a></li>
                   <li><a class="nav-link circle" href="locations.html">Locations</a></li>
-                  <li><a class="nav-link circle" href="signup.html">Sign Up</a></li>
+                  <li><a class="nav-link active circle" href="signup.html">Sign Up</a></li>
               </ul>   
             </div> 
           </nav> 
     </header>
 
 
+    <! --   SIGNUP FORM   -->
 
     <section class="form-section">
      
-     <form class="signup-form" action="#" method="get">
-       <h2>Sign up today!</h2>
+     <form class="signup-form" action="#" method="get" onsubmit="myFunction()">
+       <h1 class="form_title">Sign up today! <i class="fas fa-heartbeat"></i></h1>
 
+       <section>Select your preferred location:<br>
        <input type="radio" checked name="yoga_location" id="hoorn" value="hoorn">
        <label for="hoorn">Hoorn</label><br>
 
@@ -42,8 +44,10 @@
        <label for="alkmaar">Alkmaar</label><br>
 
        <input type="radio" name="yoga_location" id="zaandam" value="zaandam">
-       <label for="zaandam">Zaandam</label><br><br>
+       <label for="zaandam">Zaandam</label>
+       </section><br>
        
+       <section>Select your yoga day:<br>
        <input type="radio" checked name="yoga_day" id="monday" value="monday">
        <label for="monday">Monday</label><br>
 
@@ -57,20 +61,23 @@
        <label for="thursday">Thursday</label><br>
       
        <input type="radio" name="yoga_day" id="friday" value="friday">
-       <label for="friday">Friday</label><br>
+       <label for="friday">Friday</label>
+       </section>
 
        <label for="name"></label>
-       <input class="text-input" type="text" required name="name" id="name" placeholder="Name"><br>
+       <input class="text-input" type="text" required name="name" id="name" placeholder="Name">
        
        <label for="email"></label>
-       <input class="text-input" type="email" required name="email" id="email" placeholder="Email"><br>
+       <input class="text-input" type="email" required name="email" id="email" placeholder="Email">
        
-       <input class="join-button" type="submit" value="Let's Yoga!">
+       <input class="join-button button_styling" type="submit" value="Let's Yoga!">
     </form>
    </section> 
 
 
-<footer>
+    <! --    FOOTER   -->
+
+    <footer>
         <ul class="social-networks">
                 <li><a href="info@yogacity.com" target="_blank"><i class="far fa-envelope"></i></a></li>
                 <li><a href="tel:123456789" target="_blank"><i class="fas fa-phone-alt"></i></a></li>
@@ -81,9 +88,15 @@
             </ul>
     </footer>
 
-<script src="https://kit.fontawesome.com/2da6e47856.js" crossorigin="anonymous"></script>
+
+    <! --    SCRIPTS   -->
+
+    <script src="https://kit.fontawesome.com/2da6e47856.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="assets/myscripts.js"></script>
+    
+
 </body>
 </html>
