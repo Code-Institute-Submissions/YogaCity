@@ -14,6 +14,10 @@ a {
   color: #bf9b30;
 }
 
+a:hover {
+  color: #c0c0c0;
+}
+
 
 /*   HEADER    */
 
@@ -131,7 +135,7 @@ header {
   min-height: 500px;
 }
 
-
+/* HOVER OVER QUOTES AT THE END */
 
 
 
@@ -140,6 +144,8 @@ header {
 .signup_styling {
   text-decoration: underline;
 }
+
+
 
 /*     LOCATION HOORN      */
 
@@ -301,7 +307,7 @@ header {
 }
 
 .button_styling:hover {
-  background-color: #fafafa;
+  background-color: #c0c0c0;
   color: #bf9b30;
 }
 
@@ -346,3 +352,107 @@ a.effect-shine:hover {
     color: #777777;
 }
 
+
+/*  HOVER OVER QUOTES  */
+
+.tooltip1 {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip1 .tooltiptext1 {
+  visibility: hidden;
+  width: 360px;
+  background-color: #292828b2;
+  color: #fff;
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px 0;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip1:hover .tooltiptext1 {
+  visibility: visible;
+}
+
+/*  TOOLTIP2  */
+
+.tooltip2 {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip2 .tooltiptext2 {
+  visibility: hidden;
+  width: 160px;
+  background-color: #292828b2;
+  color: #fff;
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px 0;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip2:hover .tooltiptext2 {
+  visibility: visible;
+}
+
+/*  TOOLTIP3  */
+
+.tooltip3 {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip3 .tooltiptext3 {
+  visibility: hidden;
+  width: 220px;
+  background-color: #292828b2;
+  color: #fff;
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px 0;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip3:hover .tooltiptext3 {
+  visibility: visible;
+}
+
+/*  TOOLTIP4  */
+
+.tooltip4 {
+  position: relative;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip4 .tooltiptext4 {
+  visibility: hidden;
+  width: 300px;
+  background-color: #292828b2;
+  color: #fff;
+  text-align: center;
+  border-radius: 15px;
+  padding: 5px 0;
+  margin-left: 20px;
+  margin-top: 20px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip4:hover .tooltiptext4 {
+  visibility: visible;
+}
