@@ -79,12 +79,14 @@ header {
   border: 2px solid #666666;
 }
 
-
+#hamburger {
+  border-color: #bf9b30;
+}
 
 /*    HEADER IMAGE    */
 
 .header_image{
-    height:600px;ßáå³²
+    height:600px;
     width: 100%;
     background: url("../images/header_image.png") no-repeat center center;
 }
@@ -455,4 +457,63 @@ a.effect-shine:hover {
 
 .tooltip4:hover .tooltiptext4 {
   visibility: visible;
+}
+
+
+
+
+/*    @media index.html   */
+
+@media only screen and (max-width: 900px) {
+  #logo{
+    margin-left: 0px;	
+  }
+
+  .logo_styling{
+    font-size: 45px;
+  }
+
+  #menu{
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+
+  .circle {
+  width: 60px;
+  height: 60px;
+  line-height: 45px;
+  } 
+
+  .header_image{
+    height: 300px;
+    background-size: cover;
+  }
+
+  .home_info{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+
+  .social-networks i {
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 20px;
+  }
+
+  /*    @media locations.html    */
+
+  .hoorn_top, .alkmaar_top, .zaandam_top{
+    height: 300px;
+    background-size: cover;
+  }
+
+  .hoorn_left, .hoorn_right, .alkmaar_left, .alkmaar_right, .zaandam_left, .zaandam_right{
+    height: 200px;
+    background-size: cover;
+  }
+
+ 
+
 }
