@@ -21,8 +21,14 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul id="menu" class="navbar-nav ml-auto">
                   <li><a class="nav-link circle" href="index.html"><i class="fas fa-home"></i></a></li>
-                  <li><a class="nav-link circle" href="locations.html">Locations</a></li>
-                  <li><a class="nav-link active circle" href="signup.html">Sign Up</a></li>
+                  <li class="nav-item dropdown"><a class="nav-link dropdown-toggle circle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Locations</a>
+                  <div class="dropdown-menu locations_text_deco" aria-labelledby="navbarDropdown">
+                    <a class="dropdown-item" href="alkmaar.html">Alkmaar</a>
+                    <a class="dropdown-item" href="hoorn.html">Hoorn</a>
+                    <a class="dropdown-item" href="zaandam.html">Zaandam</a>
+                  </div>
+                  </li>
+                  <li><a class="nav-link circle active" href="signup.html">Sign Up</a></li>
               </ul>   
             </div> 
           </nav> 
@@ -38,11 +44,11 @@
        
 
        <section>Select your preferred location:<br>
-       <input type="radio" checked name="yoga_location" id="hoorn" value="hoorn">
-       <label for="hoorn">Hoorn</label><br>
-
-       <input type="radio"  name="yoga_location" id="alkmaar" value="alkmaar">
+       <input type="radio" checked name="yoga_location" id="alkmaar" value="alkmaar">
        <label for="alkmaar">Alkmaar</label><br>
+
+       <input type="radio"  name="yoga_location" id="hoorn" value="hoorn">
+       <label for="hoorn">Hoorn</label><br>
 
        <input type="radio" name="yoga_location" id="zaandam" value="zaandam">
        <label for="zaandam">Zaandam</label>
