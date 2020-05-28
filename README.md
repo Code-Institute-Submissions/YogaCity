@@ -10,7 +10,14 @@ You are completely focused on yourself and on the other hand we are more connect
 [Live website](https://kimkesdev.github.io/YogaCity/.)
 
 ## UX
-### User stories
+
+### User Stories
+<li>
+  <ul><strong>User Story 1:</strong>People who want to start yoga.
+  <ul><strong>User Story 2:</strong>People who want to find more inner peace.
+  <ul><strong>User Story 3:</strong>People who want to be spiritual connecten.
+</li>
+
 ### Strategy
 ### Scope
 ### Structure
