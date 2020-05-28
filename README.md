@@ -39,32 +39,31 @@ Header: gold & white.
 Menu: menu items within golden circles. 
 
 ### Surface / details, kleuren, lettertype, grafisch design, afbeeldingen, witte blokken
-Font family: 'Noto Sans JP'
-Font color: #666666 / dark grey
-Font color titles: #bf9b30; = gold. With a text shadow element.
-Hover over font color: #c0c0c0; = silver. 
-
-#### Header
+Font family: 'Noto Sans JP'<br>
+Font color: #666666 / dark grey<br>
+Font color titles: #bf9b30; = gold. With a text shadow element.<br>
+Hover over font color: #c0c0c0; = silver. <br>
+<br><br>
+__Header__<br>
 The active page will get a grey border around the golden circle of the navigation menu.
 The golden circle of the navigation menu will get a shadow element below the circle, when hover over.
 When the locations menu element is pressed, there will be a collapsable menu with the available locations.
-
-#### Footer
+<br><br>
+__Footer__<br>
 The footer will be the same at all pages.
 White with light gray icons.
 Social media icons and icons for contacting.
 
 ### Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
-<ul>
-  <li>Small devices
-  <li>Medium devices
-  <li>Large devices
-</ul>
+<br><br>
+Small devices<br>
+Medium devices<br>
+Large devices
 
 ## Features
-The webpage consists of the following features:
-#### Navigation menu
+The webpage consists of the following features:<br><br>
+__Navigation menu__<br>
 
 ## Technologies
 
