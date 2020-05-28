@@ -1,9 +1,9 @@
 # Yoga City 
-_Find peace within yourself with yoga._<br>
+_Find peace within yourself with yoga._<br><br>
 At Yoga City you receive high-level guidance. 
 You will be pampered and challenged at the same time. 
 You will learn what exactly you feel and how to listen to your feelings. 
-You are completely focused on yourself and on the other hand we are more connected than ever.<br>
+You are completely focused on yourself and on the other hand we are more connected than ever.<br><br>
 __Come and connect with us.__
 
 ## Demo
@@ -14,22 +14,22 @@ We created this website for people in Noord-Holland who want to practise yoga wi
 
 ### User Stories
 
-#### User Story 1
-Inexperienced people who want to start practicing yoga.
-#### User Story 2
-Advanced yoga practitioners who want more than just yoga.
-#### User Story 3
-People who want to be spiritual connected.
-#### User Story 4
-People who want to have more flexible muscles.
-#### User Story 5
-People who want to find more inner peace.
-#### User Story 6
-People who want to start learning more about there feelings.
-#### User Story 7
-People who want to be physically and mentally challenged. 
-#### User Story 8
-People who want to find peace within thereselfs.
+<strong>User Story 1</strong><br>
+Inexperienced people who want to start practicing yoga.<br><br>
+<strong>User Story 2</strong><br>
+Advanced yoga practitioners who want more than just yoga.<br><br>
+<strong>User Story 3</strong><br>
+People who want to be spiritual connected.<br><br>
+<strong>User Story 4</strong><br>
+People who want to have more flexible muscles.<br><br>
+<strong>User Story 5</strong><br>
+People who want to find more inner peace.<br><br>
+<strong>User Story 6</strong><br>
+People who want to start learning more about there feelings.<br><br>
+<strong> User Story 7</strong><br>
+People who want to be physically and mentally challenged. <br><br>
+<strong>User Story 8</strong><br>
+People who want to find peace within thereselfs.<br><br>
 
 ### Strategy
 Who, what, where, when, why.
