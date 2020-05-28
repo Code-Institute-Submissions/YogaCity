@@ -87,10 +87,10 @@ Google Chrome Developer Tools for testing different device sizes.
 
 ## Testing
 
-#### Header
+__Header__<br>
 test test
-
-#### Menu links
+<br><br>
+__Menu links__<br>
 test test
 
 ## Testing results
