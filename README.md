@@ -12,11 +12,12 @@ You are completely focused on yourself and on the other hand we are more connect
 ## UX
 
 ### User Stories
-<li>
-  <ul><strong>User Story 1:</strong>People who want to start yoga.
-  <ul><strong>User Story 2:</strong>People who want to find more inner peace.
-  <ul><strong>User Story 3:</strong>People who want to be spiritual connecten.
-</li>
+<ul>
+  <li><strong>User Story 1:</strong>People who want to start yoga.
+  <li><strong>User Story 2:</strong>People who want to find more inner peace.
+  <li><strong>User Story 3:</strong>People who want to be spiritual connecten.
+  <li><strong>User Story 4:</strong>People who want to have more flexible muscles.
+</ul>
 
 ### Strategy
 ### Scope
