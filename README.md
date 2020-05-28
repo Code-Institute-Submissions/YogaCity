@@ -77,18 +77,14 @@ The webpage consists of the following features:
 </ul>
 
 ### Frameworks / Tools / Libraries
-<ul>
-  <li>[Balsamiq](https://balsamiq.com) for the mockups.
-  <li>[Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons.
-  <li>[Google Fonts](https://fonts.google.com/) for the font type ....
-</ul>
+[Balsamiq](https://balsamiq.com.) for the mockups.<br>
+[Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons.<br>
+[Google Fonts](https://fonts.google.com/) for the font type ....
 
 ### Testing
-<ul>
-  <li>[HTML Validator](https://validator.w3.org/) for testing the HTML code.
-  <li>[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code.
-  <li>Google Chrome Developer Tools for testing different device sizes.
-</ul>
+[HTML Validator](https://validator.w3.org/) for testing the HTML code.<br>
+[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code.<br>
+Google Chrome Developer Tools for testing different device sizes.
 
 ## Testing
 
