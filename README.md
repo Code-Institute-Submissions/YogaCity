@@ -34,16 +34,18 @@ The three available locations are bigger cities in Noord-Holland.
 
 ### Structure / hoe georganiseerd, content prioriteit, structuur pagina
 
+
 ### Skeleton / uiterlijk, navigatie, menu's, layout, blokken, buttons
-Header: gold & white.
-Menu: menu items within golden circles. 
+__Header:__ gold & white.<br>
+__Menu:__ menu items within golden circles. 
 
 ### Surface / details, kleuren, lettertype, grafisch design, afbeeldingen, witte blokken
 Font family: 'Noto Sans JP'<br>
 Font color: #666666 / dark grey<br>
 Font color titles: #bf9b30; = gold. With a text shadow element.<br>
 Hover over font color: #c0c0c0; = silver. <br>
-<br><br>
+COLOR IMAGE IMAGE
+<br>
 __Header__<br>
 The active page will get a grey border around the golden circle of the navigation menu.
 The golden circle of the navigation menu will get a shadow element below the circle, when hover over.
@@ -52,7 +54,7 @@ When the locations menu element is pressed, there will be a collapsable menu wit
 __Footer__<br>
 The footer will be the same at all pages.
 White with light gray icons.
-Social media icons and icons for contacting.
+Social media and contacting icons.
 
 ### Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
@@ -64,6 +66,13 @@ Large devices
 ## Features
 The webpage consists of the following features:<br><br>
 __Navigation menu__<br>
+blablabla
+<br><br>
+__Footer__<br>
+blablabla
+<br><br>
+__Sign up form__<br>
+blablabla
 
 ## Technologies
 
@@ -77,7 +86,9 @@ __Navigation menu__<br>
 ### Frameworks / Tools / Libraries
 [Balsamiq](https://balsamiq.com.) for the mockups.<br>
 [Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons.<br>
-[Google Fonts](https://fonts.google.com/) for the font type ....
+[Google Fonts](https://fonts.google.com/) for the font type ....<br>
+Gitpod was the IDE used to write the code for this website.<br>
+GitHub Version control
 
 ### Testing
 [HTML Validator](https://validator.w3.org/) for testing the HTML code.<br>
