@@ -1,10 +1,10 @@
-# Yoga City
-"Find peace within yourself with yoga."<br>
+# Yoga City 
+_Find peace within yourself with yoga._<br>
 At Yoga City you receive high-level guidance. 
 You will be pampered and challenged at the same time. 
 You will learn what exactly you feel and how to listen to your feelings. 
 You are completely focused on yourself and on the other hand we are more connected than ever.<br>
-<strong>Come and connect with us.</strong>
+__Come and connect with us.__
 
 ## Demo
 [Live website](https://kimkesdev.github.io/YogaCity/.)
@@ -45,12 +45,12 @@ Font color: #666666 / dark grey
 Font color titles: #bf9b30; = gold. With a text shadow element.
 Hover over font color: #c0c0c0; = silver. 
 
-<strong>Header</strong><br>
+#### Header
 The active page will get a grey border around the golden circle of the navigation menu.
 The golden circle of the navigation menu will get a shadow element below the circle, when hover over.
 When the locations menu element is pressed, there will be a collapsable menu with the available locations.
 
-<strong>Footer</strong><br>
+#### Footer
 The footer will be the same at all pages.
 White with light gray icons.
 Social media icons and icons for contacting.
@@ -65,7 +65,7 @@ The following wireframes were created using Balsamiq to design the website layou
 
 ## Features
 The webpage consists of the following features:
-<strong>Navigation menu</strong>: 
+#### Navigation menu
 
 ## Technologies
 
@@ -78,24 +78,24 @@ The webpage consists of the following features:
 
 ### Frameworks / Tools / Libraries
 <ul>
-  <li>Balsamiq for the mockups.
-  <li>Bootstrap for the collapsible navbar, button and the footer icons.
-  <li>Google Fonts for the font type ....
+  <li>[Balsamiq](https://balsamiq.com) for the mockups.
+  <li>[Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons.
+  <li>[Google Fonts](https://fonts.google.com/) for the font type ....
 </ul>
 
 ### Testing
 <ul>
-  <li>HTML Validator for testing the HTML code.
-  <li>CSS Validator for testing the CSS code.
+  <li>[HTML Validator](https://validator.w3.org/) for testing the HTML code.
+  <li>[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code.
   <li>Google Chrome Developer Tools for testing different device sizes.
 </ul>
 
 ## Testing
 
-<strong>Header</strong><br>
+#### Header
 test test
-<br>
-<strong>Menu links</strong><br>
+
+#### Menu links
 test test
 
 ## Testing results
@@ -122,7 +122,7 @@ Ending with the README.md.
 The full content is made up and written by me.
 
 ### Media
-The photos used in this website were obtained from Unsplashed.
+The photos used in this website were obtained from [Unsplashed](https://unsplash.com/).
 
 ### Acknowledgements
 I used everything I learned in the Fullstack Web Development course at Code Institute and some extra general knowledge from w3schools.
