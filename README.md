@@ -13,16 +13,23 @@ __Come and connect with us.__
 We created this website for people in Noord-Holland who want to practise yoga within a save environment.
 
 ### User Stories
-<ul>
-  <li><strong>User Story 1:</strong> Inexperienced people who want to start practicing yoga.
-  <li><strong>User Story 2:</strong> Advanced yoga practitioners who want more than just yoga.
-  <li><strong>User Story 3:</strong> People who want to be spiritual connected.
-  <li><strong>User Story 4:</strong> People who want to have more flexible muscles.
-  <li><strong>User Story 5:</strong> People who want to find more inner peace.
-  <li><strong>User Story 6:</strong> People who want to start learning more about there feelings.
-  <li><strong>User Story 7:</strong> People who want to be physically and mentally challenged. 
-  <li><strong>User Story 8:</strong> People who want to find peace within thereselfs.
-</ul> 
+
+#### User Story 1
+Inexperienced people who want to start practicing yoga.
+#### User Story 2
+Advanced yoga practitioners who want more than just yoga.
+#### User Story 3
+People who want to be spiritual connected.
+#### User Story 4
+People who want to have more flexible muscles.
+#### User Story 5
+People who want to find more inner peace.
+#### User Story 6
+People who want to start learning more about there feelings.
+#### User Story 7
+People who want to be physically and mentally challenged. 
+#### User Story 8
+People who want to find peace within thereselfs.
 
 ### Strategy
 Who, what, where, when, why.
