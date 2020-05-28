@@ -7,7 +7,7 @@ You are completely focused on yourself and on the other hand we are more connect
 <strong>Come and connect with us.</strong>
 
 ## Demo
-[Live website](https://www.github.com)
+[Live website](https://kimkesdev.github.io/YogaCity/.)
 
 ## UX
 ### User stories
