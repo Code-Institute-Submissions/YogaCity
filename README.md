@@ -55,23 +55,74 @@ The footer will be the same at all pages.
 White with light gray icons.
 Social media icons and icons for contacting.
 
-## UX
-### User Stories
-### Strategy
-### Scope
-### Structure
-### Skeleton
-### Surface
+### Mockups & Wireframes
+The following wireframes were created using Balsamiq to design the website layout options:
+<ul>
+  <li>Small devices
+  <li>Medium devices
+  <li>Large devices
+</ul>
+
+## Features
+The webpage consists of the following features:
+<strong>Navigation menu</strong>: 
 
 ## Technologies
 
-## Features
+### Languages
+<ul>
+  <li>HTML
+  <li>CSS
+  <li>JavaScript
+</ul>
+
+### Frameworks / Tools / Libraries
+<ul>
+  <li>Balsamiq for the mockups.
+  <li>Bootstrap for the collapsible navbar, button and the footer icons.
+  <li>Google Fonts for the font type ....
+</ul>
+
+### Testing
+<ul>
+  <li>HTML Validator for testing the HTML code.
+  <li>CSS Validator for testing the CSS code.
+  <li>Google Chrome Developer Tools for testing different device sizes.
+</ul>
 
 ## Testing
 
+<strong>Header</strong><br>
+test test
+<br>
+<strong>Menu links</strong><br>
+test test
+
+## Testing results
+(screenshot)
+
 ## Deployment
+I started working on this project in Repl.it because I worked on it from different devices.
+Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub.
+Like this I also always had an extra backup, when needed.
+<br>
+This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’.
+In the ’css’ map you will find the page: style.css.
+A map called 'mockups' with small, medium and large wireframes.
+A map called 'screenshots' with an image of the used colors and a demo.gif.
+Ending with the README.md.
+
+### New Repository
+### Deployment in GitHub
+### Clone and contribute
 
 ## Credits
+
 ### Content
+The full content is made up and written by me.
+
 ### Media
+The photos used in this website were obtained from Unsplashed.
+
 ### Acknowledgements
+I used everything I learned in the Fullstack Web Development course at Code Institute and some extra general knowledge from w3schools.
