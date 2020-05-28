@@ -27,8 +27,6 @@ We created this website for people in Noord-Holland who want to practise yoga wi
 ### Strategy
 Who, what, where, when, why.
 
-
-
 ### Scope  /  content requirements
 The website is easy to read and easy to use.
 There is a very clear sign up form for the people who want to connect with us.
@@ -47,15 +45,23 @@ Font color: #666666 / dark grey
 Font color titles: #bf9b30; = gold. With a text shadow element.
 Hover over font color: #c0c0c0; = silver. 
 
-<strong>Header</strong>
+<strong>Header</strong><br>
 The active page will get a grey border around the golden circle of the navigation menu.
 The golden circle of the navigation menu will get a shadow element below the circle, when hover over.
 When the locations menu element is pressed, there will be a collapsable menu with the available locations.
 
-<strong>Footer</strong>
+<strong>Footer</strong><br>
 The footer will be the same at all pages.
 White with light gray icons.
 Social media icons and icons for contacting.
+
+## UX
+### User Stories
+### Strategy
+### Scope
+### Structure
+### Skeleton
+### Surface
 
 ## Technologies
 
@@ -68,5 +74,4 @@ Social media icons and icons for contacting.
 ## Credits
 ### Content
 ### Media
-Images: Unsplash
 ### Acknowledgements
