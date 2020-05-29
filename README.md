@@ -2,7 +2,7 @@
 _Find peace within yourself with yoga._<br><br>
 At Yoga City you receive high-level guidance. 
 You will be pampered and challenged at the same time. 
-You will learn what exactly you feel and how to listen to your feelings. 
+You will learn which feelings you have and how to listen to those feelings. 
 You are completely focused on yourself and on the other hand we are more connected than ever.<br><br>
 __Come and connect with us.__
 
@@ -37,24 +37,62 @@ The three available locations are bigger cities in Noord-Holland.
 
 ### Skeleton / uiterlijk, navigatie, menu's, layout, blokken, buttons
 __Header:__ gold & white.<br>
-__Menu:__ menu items within golden circles. 
+__Menu:__ menu items within golden circles.<br>
+__Footer:__ white with grey icons, all lined up horizontally.<br>
+__Pages:__ text with white background and big images.<br>
+__Form:__ see trough form with radio buttons and required text with big image on background.<br>
+__Maps:__ each location with own map.
 
 ### Surface / details, kleuren, lettertype, grafisch design, afbeeldingen, witte blokken
-Font family: 'Noto Sans JP'<br>
-Font color: #666666 / dark grey<br>
-Font color titles: #bf9b30; = gold. With a text shadow element.<br>
-Hover over font color: #c0c0c0; = silver. <br>
+Font family: 'Noto Sans JP'.<br>
+Font color: #666666 (dark grey).<br>
+Font color titles: #bf9b30 (gold), with a text shadow element.<br>
+Some hover over titles change font color from gold to font color: #c0c0c0 (silver).<br>
 COLOR IMAGE IMAGE
 <br>
 __Header__<br>
-The active page will get a grey border around the golden circle of the navigation menu.
+Full width white background with on the left the title in the color gold with text shadow.
+The navigation menu will be horizontally on the right. Each navigation item will be placed in a seprate golden circle.
+The active page will have a grey border around the golden circle of the navigation menu.
 The golden circle of the navigation menu will get a shadow element below the circle, when hover over.
-When the locations menu element is pressed, there will be a collapsable menu with the available locations.
+When the locations menu item is pressed, there will be a collapsable menu with the available locations.
 <br><br>
 __Footer__<br>
-The footer will be the same at all pages.
-White with light gray icons.
-Social media and contacting icons.
+The footer will be the same at all pages and all sizes.
+White with light gray icons horizontally.
+With social media and contacting icons. All linking to the right place.
+<br><br>
+__Home page__<br>
+Starting with a big image, full width.
+Followed by a white block with text. The titles and the sign up link are color gold. The sign up link will link to the right page.
+And the bottom here will be four images.
+On large devices there will be two images, full width. And then again two images, full width.
+On medium and small devices there will be one image, full width. Four images underneath each other.
+All four images will have a hover over effect. In the top left of the image will show a text quote with transparant background.
+<br><br>
+__Sign Up__<br>
+One image, full width.
+The sign up form will be transparant on top of the image. 
+The title will be color gold with a hover over effect. Next to the title will be a playful icon.
+The hover over effect will change the text color to silver and will have a shine effect.
+Three verticaly radio buttons for each location, where the client can choose from.
+Followed by five verticaly radio buttons for each day of the week, where the client can choose from.
+Underneath the radio buttons will be two verticaly text input field for the name and e-mail address. 
+The borders will be color white, with hoover over effect to change them to color gold.
+And at the bottum will a submit button. White text with background color gold. 
+With hoover over effect to change the text color to gold and the background color to silver.
+<br><br>
+__Locations__<br>
+Each location will have the same build up.
+Starting with three images.
+On large devices there will be one image, full width. Underneath that image will be two images next to each other, full width.
+On medium and small devices the three images will be places underneath each other, all full width.
+Followed by a white block with text. 
+The titles and the sign up link are color gold. The sign up link will link to the right page.
+Next to each title will be a playful icon.
+At the bottom will be a map, full width, with a marker on the right location. 
+The map will be zoomed in and the area surrounding of the yoga location is clearly visible.
+The marker will have the title and location text in big white letters for good visabilaty, background color gold. 
 
 ### Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
