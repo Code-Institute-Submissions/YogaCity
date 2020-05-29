@@ -48,8 +48,8 @@ Font family: 'Noto Sans JP'.<br>
 Font color: #666666 (dark grey).<br>
 Font color titles: #bf9b30 (gold), with a text shadow element.<br>
 Some hover over titles change font color from gold to font color: #c0c0c0 (silver).<br><br>
-![](assets/screenshots/EBF9B30.png)
-![](assets/screenshots/C0C0C0.png)
+![](assets/screenshots/%23BF9B30.PNG)
+![](assets/screenshots/%23C0C0C0.PNG)
 <br><br>
 __Header__<br>
 Full width white background with on the left the title in the color gold with text shadow.
