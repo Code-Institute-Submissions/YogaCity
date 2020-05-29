@@ -43,13 +43,13 @@ __Pages:__ text with white background and big images.<br>
 __Form:__ see trough form with radio buttons and required text with big image on background.<br>
 __Maps:__ each location with own map.
 
-### Surface / details, kleuren, lettertype, grafisch design, afbeeldingen, witte blokken
+### Surface / details 
 Font family: 'Noto Sans JP'.<br>
 Font color: #666666 (dark grey).<br>
 Font color titles: #bf9b30 (gold), with a text shadow element.<br>
-Some hover over titles change font color from gold to font color: #c0c0c0 (silver).<br>
+Some hover over titles change font color from gold to font color: #c0c0c0 (silver).<br><br>
 COLOR IMAGE IMAGE
-<br>
+<br><br>
 __Header__<br>
 Full width white background with on the left the title in the color gold with text shadow.
 The navigation menu will be horizontally on the right. Each navigation item will be placed in a seprate golden circle.
@@ -125,12 +125,13 @@ blablabla
 [Balsamiq](https://balsamiq.com.) for the mockups.<br>
 [Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons.<br>
 [Google Fonts](https://fonts.google.com/) for the font type ....<br>
-Gitpod was the IDE used to write the code for this website.<br>
-GitHub Version control
+[Gitpod](https://www.gitpod.io/) was the IDE used to write the code for this website.<br>
+[GitHub](https://github.com/) for version control.
 
 ### Testing
 [HTML Validator](https://validator.w3.org/) for testing the HTML code.<br>
 [CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code.<br>
+[JavaScript Validator](https://www.w3schools.com/js/js_validation.asp) for testing the JavaScript code.<br>
 Google Chrome Developer Tools for testing different device sizes.
 
 ## Testing
