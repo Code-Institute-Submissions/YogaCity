@@ -97,7 +97,7 @@ The marker will have the title and location text in big white letters for good v
 
 ### Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
-<br><br>
+<br>
 Small devices<br>
 Medium devices<br>
 Large devices
@@ -116,11 +116,9 @@ blablabla
 ## Technologies
 
 ### Languages
-<ul>
-  <li>HTML
-  <li>CSS
-  <li>JavaScript
-</ul>
+[HTML5](https://en.wikipedia.org/wiki/HTML5) for the structure of the website. <br>
+[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) for the styling. <br>
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript) for the Google Maps.
 
 ### Frameworks / Tools / Libraries
 [Balsamiq](https://balsamiq.com.) for the mockups.<br>
