@@ -15,7 +15,7 @@
     <header> 
           <nav class="navbar navbar-expand-xl navbar-light">   
             <div><h1 id="logo"><a class="navbar-brand logo_styling" style="color:#bf9b30">Yoga City</a></h1></div> 
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+            <button id="hamburger" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -77,8 +77,40 @@
        <label for="email"></label>
        <input class="text-input" type="email" required name="email" id="email" placeholder="Email">
        
-       <input class="join-button button_styling" type="submit" value="Let's Yoga!">
-    </form>
+       <button type="button" class="button_styling" data-toggle="modal" data-target="#myModal">Let's Yoga</button>
+		</form>
+				
+        <div class="modal fade" tabindex="-1" id="myModal" role="dialog">
+          <div class="modal-dialog">
+				
+            <div class="modal-content">
+              <div class="modal-header">
+                
+                  <h4 class="modal-title">Yoga City</h4>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+             </div>    
+						
+             <div class="modal-body">
+               <p>Thank you for signing up.<br>Can't wait to see you!</p>
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="button_popup" data-dismiss="modal">Close</button>
+             </div>
+            </div>
+          </div>
+        </div>
+  
+						
+
+
+
+
+
+
+
+     </form>
    </section> 
 
 
@@ -103,14 +135,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
-    <! --   POP-UP FORM SCRIPT   -->
 
-
-    <script>
-      function myFunction() {
-    alert("Thank you for signing up. Can't wait to see you!");
-    }
-    </script>
 
     
 

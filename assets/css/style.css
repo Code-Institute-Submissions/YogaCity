@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+
 body{
   color: #666666;
+  font-family: 'Noto Sans JP', sans-serif;
+  letter-spacing: 1px;
 }
 
-h1, h3{
+h1, h3, h4{
   color: #bf9b30;
 }
 
@@ -44,7 +48,8 @@ header {
     letter-spacing: 3px;
     list-style:none;   
     color: white;
-    font-family: "Pacifico", sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    letter-spacing: 2px;
     text-shadow: 2px 2px #666666;
 }
 
@@ -304,6 +309,21 @@ header {
   color: #bf9b30;
 }
 
+.button_popup {
+  border-radius: 2px;
+  padding: 8px 25px 8px 25px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #bf9b30;
+  color: #fafafa;
+  display: block;
+}
+
+.button_popup:hover {
+  background-color: #c0c0c0;
+  color: #bf9b30;
+}
+
 
 /*    EFFECT SHINE  */
 
@@ -520,13 +540,15 @@ a.effect-shine:hover {
   /*    @media signup.html    */
 
   .signup-form {
-    margin-top: 12px;
-    width: 450px;
-    left: 3%;
+    width: 90%;
+    left: 5%;
+    right: 5%;
+    margin-top: 10px;
+    padding-left: 20px;
   }
 
   .form_title{
-    font-size: 35px;
+    font-size: 25px;
   }
 
 }
@@ -537,7 +559,7 @@ a.effect-shine:hover {
 #map_alkmaar {
         height: 400px;
         margin-top: 30px;
-      }
+}
 
 .popup-bubble {
         position: absolute;
@@ -554,14 +576,14 @@ a.effect-shine:hover {
         overflow-y: auto;
         max-height: 60px;
         box-shadow: 0px 2px 10px 2px rgba(0,0,0,0.5);
-      }
+}
 
 .popup-bubble-anchor {
         position: absolute;
         width: 100%;
         bottom: 8px;
         left: 0;
-      }
+}
 
 .popup-bubble-anchor::after {
         content: "";
@@ -577,14 +599,14 @@ a.effect-shine:hover {
         border-left: 6px solid transparent;
         border-right: 6px solid transparent;
         border-top: 8px solid #bf9b30;
-      }
+}
   
 .popup-container {
         cursor: auto;
         height: 0;
         position: absolute;
         width: 200px;
-      }
+}
 
 
    /*   GOOGLE MAPS HOORN   */
@@ -609,14 +631,14 @@ a.effect-shine:hover {
         overflow-y: auto;
         max-height: 60px;
         box-shadow: 0px 2px 10px 2px rgba(0,0,0,0.5);
-      }
+}
 
 .popup-bubble-anchor {
         position: absolute;
         width: 100%;
         bottom: 8px;
         left: 0;
-      }
+}
 
 .popup-bubble-anchor::after {
         content: "";
@@ -632,7 +654,7 @@ a.effect-shine:hover {
         border-left: 6px solid transparent;
         border-right: 6px solid transparent;
         border-top: 8px solid #bf9b30;
-      }
+}
   
 .popup-container {
         cursor: auto;
@@ -640,7 +662,7 @@ a.effect-shine:hover {
         position: absolute;
 
         width: 200px;
-      }
+}
 
 
    /*   GOOGLE MAPS ZAANDAM   */
@@ -648,7 +670,7 @@ a.effect-shine:hover {
 #map_zaandam {
         height: 400px;
         margin-top: 30px;
-      }
+}
 
 .popup-bubble {
         position: absolute;
@@ -665,14 +687,14 @@ a.effect-shine:hover {
         overflow-y: auto;
         max-height: 60px;
         box-shadow: 0px 2px 10px 2px rgba(0,0,0,0.5);
-      }
+}
 
 .popup-bubble-anchor {
         position: absolute;
         width: 100%;
         bottom: 8px;
         left: 0;
-      }
+}
 
 .popup-bubble-anchor::after {
         content: "";
@@ -688,7 +710,7 @@ a.effect-shine:hover {
         border-left: 6px solid transparent;
         border-right: 6px solid transparent;
         border-top: 8px solid #bf9b30;
-      }
+}
   
 .popup-container {
         cursor: auto;
@@ -696,4 +718,4 @@ a.effect-shine:hover {
         position: absolute;
 
         width: 200px;
-      }
+}
