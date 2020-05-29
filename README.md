@@ -116,22 +116,22 @@ blablabla
 ## Technologies
 
 ### Languages
-[HTML5](https://en.wikipedia.org/wiki/HTML5) for the structure of the website. <br>
-[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) for the styling. <br>
-[JavaScript](https://en.wikipedia.org/wiki/JavaScript) for the Google Maps.
+[HTML5](https://en.wikipedia.org/wiki/HTML5) for the structure of the website <br>
+[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) for the styling <br>
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript) for the Google Maps
 
 ### Frameworks / Tools / Libraries
 [Balsamiq](https://balsamiq.com.) for the mockups.<br>
-[Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons.<br>
-[Google Fonts](https://fonts.google.com/) for the font type ....<br>
-[Gitpod](https://www.gitpod.io/) was the IDE used to write the code for this website.<br>
-[GitHub](https://github.com/) for version control.
+[Bootstrap](https://getbootstrap.com/) for the collapsible navbar, button and the footer icons<br>
+[Google Fonts](https://fonts.google.com/) for the font family 'Noto Sans JP'<br>
+[Gitpod](https://www.gitpod.io/) was the IDE used to write the code for this website<br>
+[GitHub](https://github.com/) for version control
 
 ### Testing
-[HTML Validator](https://validator.w3.org/) for testing the HTML code.<br>
-[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code.<br>
-[JavaScript Validator](https://www.w3schools.com/js/js_validation.asp) for testing the JavaScript code.<br>
-Google Chrome Developer Tools for testing different device sizes.
+[HTML Validator](https://validator.w3.org/) for testing the HTML code<br>
+[CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code<br>
+[JavaScript Validator](https://www.w3schools.com/js/js_validation.asp) for testing the JavaScript code<br>
+Google Chrome Developer Tools for testing different device sizes
 
 ## Testing
 
