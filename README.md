@@ -95,7 +95,7 @@ At the bottom will be a map, full width, with a marker on the right location.
 The map will be zoomed in and the area surrounding of the yoga location is clearly visible.
 The marker will have the title and location text in big white letters for good visabilaty, background color gold. 
 
-### Mockups & Wireframes
+### Mockups
 The following wireframes were created using Balsamiq to design the website layout options:
 <br>
 [Small devices](assets/mockups/YogaCityLarge.pdf)<br>
