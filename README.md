@@ -98,9 +98,9 @@ The marker will have the title and location text in big white letters for good v
 ### Mockups & Wireframes
 The following wireframes were created using Balsamiq to design the website layout options:
 <br>
-Small devices<br>
-Medium devices<br>
-Large devices
+[Small devices](assets/mockups/YogaCitySmall)
+[Medium devices](assets/mockups/YogaCityMedium)
+[Large devices](assets/mockups/YogaCityLarge)
 
 ## Features
 The webpage consists of the following features:<br><br>
