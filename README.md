@@ -100,7 +100,7 @@ The following wireframes were created using Balsamiq to design the website layou
 <br>
 [Small devices](assets/mockups/YogaCityLarge.pdf)<br>
 [Medium devices](assets/mockups/YogaCityMedium.pdf)<br>
-[Large devices](assets/mockups/YogaCityLarge.pfd)
+[Large devices](assets/mockups/YogaCityLarge.pdf)
 
 ## Features
 The webpage consists of the following features:<br><br>
