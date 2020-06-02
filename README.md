@@ -130,7 +130,6 @@ blablabla
 ### Testing
 [HTML Validator](https://validator.w3.org/) for testing the HTML code<br>
 [CSS Validator](https://jigsaw.w3.org/css-validator/) for testing the CSS code<br>
-[JavaScript Validator](https://www.w3schools.com/js/js_validation.asp) for testing the JavaScript code<br>
 Google Chrome Developer Tools for testing different device sizes
 
 ## Testing
