@@ -134,8 +134,7 @@ Google Chrome Developer Tools for testing different device sizes
 
 ## Testing
 
-
-__Responsiveness__
+__Responsiveness__<br>
 Every page was tested for responsiveness on small, medium and large devices.<br>
 Through the _Google Chrome Developer Tools_ I tested the following types:<br>
 <ul>
@@ -151,7 +150,7 @@ Through the _Google Chrome Developer Tools_ I tested the following types:<br>
 </ul>
 
 __Header__<br>
-test test
+The header 
 <br><br>
 __Menu links__<br>
 test test
