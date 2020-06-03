@@ -9,8 +9,8 @@
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-  
-   <!--    HEADER    -->
+
+<!--    HEADER    -->
 
     <header> 
           <nav class="navbar navbar-expand-xl navbar-light">   
@@ -28,82 +28,22 @@
                     <a class="dropdown-item" href="zaandam.html">Zaandam</a>
                   </div>
                   </li>
-                  <li><a class="nav-link circle active" href="signup.html">Sign Up</a></li>
+                  <li><a class="nav-link circle" href="signup.html">Sign Up</a></li>
               </ul>   
             </div> 
           </nav> 
     </header>
 
+<!--    HEADER IMAGE  -->
 
-    <!--   SIGNUP FORM   -->
-
-<section class="form-section">
-     
-    <form class="signup-form needs-validation" novalidate action="thankyou.html">
-       <h1 class="form_title"><a href="#" class="effect-shine">Sign up today! <i class="fas fa-heartbeat"></i></a></h1>
-       
-       <section>Select your preferred location:<br>
-       <input type="radio" checked name="yoga_location" id="alkmaar" value="alkmaar">
-       <label for="alkmaar">Alkmaar</label><br>
-
-       <input type="radio"  name="yoga_location" id="hoorn" value="hoorn">
-       <label for="hoorn">Hoorn</label><br>
-
-       <input type="radio" name="yoga_location" id="zaandam" value="zaandam">
-       <label for="zaandam">Zaandam</label>
-       </section><br>
-       
-       <section>Select your yoga day:<br>
-       <input type="radio" checked name="yoga_day" id="monday" value="monday">
-       <label for="monday">Monday</label><br>
-
-       <input type="radio" name="yoga_day" id="tuesday" value="tuesday">
-       <label for="tuesday">Tuesday</label><br>
-      
-       <input type="radio" name="yoga_day" id="wednesday" value="wednesday">
-       <label for="wednesday">Wednesday</label><br>
-
-       <input type="radio" name="yoga_day" id="thursday" value="thursday">
-       <label for="thursday">Thursday</label><br>
-      
-       <input type="radio" name="yoga_day" id="friday" value="friday">
-       <label for="friday">Friday</label>
-       </section>
-
-       <label for="name"></label>
-       <input type="text" class="form-control text-input"  name="name" id="name" placeholder="Name" required>
-       
-       <label for="email"></label>
-       <input class="form-control text-input" type="email" name="email" id="email" placeholder="Email" required>
-       
-       <button type="submit" class="button_styling" data-toggle="modal" data-target="#myModal">Let's Yoga</button>
-		</form>
-<script>
-
-(function() {
-  'use strict';
-  window.addEventListener('load', function() {
-
-    var forms = document.getElementsByClassName('needs-validation');
-
-    var validation = Array.prototype.filter.call(forms, function(form) {
-      form.addEventListener('submit', function(event) {
-        if (form.checkValidity() === false) {
-          event.preventDefault();
-          event.stopPropagation();
-        }
-        form.classList.add('was-validated');
-      }, false);
-    });
-  }, false);
-})();
-</script>
-     
-</section> 
+<div class="container-fluit">
+      <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-12 thankyou_image"></div>
+      </div>
+</div>
 
 
-
-    <!--    FOOTER   -->
+<!--    FOOTER   -->
 
     <footer>
         <ul class="social-networks">
@@ -116,8 +56,7 @@
             </ul>
     </footer>
 
-
-    <!--    SCRIPTS   -->
+<!--    SCRIPTS   -->
     
 
     <script src="https://kit.fontawesome.com/2da6e47856.js" crossorigin="anonymous"></script>
