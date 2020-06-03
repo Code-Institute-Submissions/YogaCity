@@ -134,6 +134,22 @@ Google Chrome Developer Tools for testing different device sizes
 
 ## Testing
 
+
+__Responsiveness__
+Every page was tested for responsiveness on small, medium and large devices.<br>
+Through the _Google Chrome Developer Tools_ I tested the following types:<br>
+<ul>
+  <li>Galaxy S5 
+  <li>Pixel 2
+  <li>Pixel 2 XL
+  <li>iPhone 5/SE
+  <li>iPhone 6/7/8
+  <li>iPhone 6/7/8 Plus
+  <li>iPhone X
+  <li>iPad
+  <li>iPad Pro
+</ul>
+
 __Header__<br>
 test test
 <br><br>
