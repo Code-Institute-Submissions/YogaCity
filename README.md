@@ -188,6 +188,7 @@ Ending with the README.md.
 ### New Repository
 ### Deployment in GitHub
 ### Clone and contribute
+### Create your own Google API keys
 
 ## Credits
 
@@ -198,4 +199,7 @@ The full content is made up and written by me.
 The photos used in this website were obtained from [Unsplashed](https://unsplash.com/).
 
 ### Acknowledgements
-I used everything I learned in the Fullstack Web Development course at Code Institute and some extra general knowledge from w3schools.
+[Code Institute](https://codeinstitute.net/) Fullstack Web Development course.<br>
+[W3Schools](https://www.w3schools.com/) for extra general coding knowledge.<br>
+[Google Maps](https://developers.google.com/maps/documentation/javascript/get-api-key) API key info.<br>
+[Bootstrap](https://getbootstrap.com/) for info about forms.<br>
