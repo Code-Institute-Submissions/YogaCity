@@ -168,8 +168,8 @@ __Footer__<br>
 In the footer the social media links will be found, which are external links.
 There are also contact icons, which will can be used to get in contact right away.
 <br><br>
-__Contact form__<br>
-The contact form has required attributes which are needed before submitting the form.
+__Sign-up form__<br>
+The sign-up form has required attributes which are needed before submitting the form.
 
 ## Testing results
 (screenshot)
