@@ -158,6 +158,10 @@ Through the _Google Chrome Developer Tools_ I tested the following types:<br>
   <li>iPad Pro (1024x1366)
 </ul>
 
+This site was also tested in [Responsinator](https://www.responsinator.com/).<br>
+![](assets/screenshots/small_devices.png)
+<br><br>
+
 __Header__<br>
 The header is fixed and responsive to small, medium and large devices.
 <br><br>
