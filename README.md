@@ -105,13 +105,22 @@ The following wireframes were created using Balsamiq to design the website layou
 ## Features
 The webpage consists of the following features:<br><br>
 __Navigation menu__<br>
-blablabla
+The navbar stays collapsed on small and medium devices and a Bootstrap bar icon is used.
+The navbar contains links to associated pages: Home, Locations (Alkmaar, Hoorn, Zaandam) and Sign-Up.
 <br><br>
 __Footer__<br>
-blablabla
+Clear white footer containing all icon with links to social media accounts and contactinfo.
 <br><br>
 __Sign up form__<br>
-blablabla
+The sign-up form uses Bootstrap form features.
+The form requires to provide your name and email address.
+When the required fields are filled in and you press the button, you will be forwarded to the _Thank You page_.
+<br><br>
+__Icons__<br>
+All light grey Bootstrap icons are used for social media and to get in contact.
+<br><br>
+__Button__<br>
+The sign-up form uses a Bootstrap button, which is styled with CSS.
 
 ## Technologies
 
