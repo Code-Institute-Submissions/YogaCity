@@ -147,15 +147,15 @@ __Responsiveness__<br>
 Every page was tested for responsiveness on small, medium and large devices.<br>
 Through the _Google Chrome Developer Tools_ I tested the following types:<br>
 <ul>
-  <li>Galaxy S5 
-  <li>Pixel 2
-  <li>Pixel 2 XL
-  <li>iPhone 5/SE
-  <li>iPhone 6/7/8
-  <li>iPhone 6/7/8 Plus
-  <li>iPhone X
-  <li>iPad
-  <li>iPad Pro
+  <li>iPhone 5/SE (320x568)
+  <li>Galaxy S5/Moto G4 (360x640)
+  <li>iPhone 6/7/8 (375x667)
+  <li>iPhone X (375x812)
+  <li>Pixel 2 (411x731)
+  <li>Pixel 2 XL (411x823)
+  <li>iPhone 6/7/8 Plus (414x736)
+  <li>iPad (768x1024)
+  <li>iPad Pro (1024x1366)
 </ul>
 
 __Header__<br>
