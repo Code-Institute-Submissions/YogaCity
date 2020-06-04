@@ -159,10 +159,17 @@ Through the _Google Chrome Developer Tools_ I tested the following types:<br>
 </ul>
 
 __Header__<br>
-The header 
+The header is fixed and responsive to small, medium and large devices.
 <br><br>
-__Menu links__<br>
-test test
+__Navigation menu__<br>
+The links in the navigation menu are linked to the right internal webpage.
+<br><br>
+__Footer__<br>
+In the footer the social media links will be found, which are external links.
+There are also contact icons, which will can be used to get in contact right away.
+<br><br>
+__Contact form__<br>
+The contact form has required attributes which are needed before submitting the form.
 
 ## Testing results
 (screenshot)
