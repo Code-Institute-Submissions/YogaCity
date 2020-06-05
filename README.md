@@ -10,7 +10,6 @@ __Come and connect with us.__
 [Live website](https://kimkesdev.github.io/YogaCity/.)
 
 ## UX
-We created this website for people in Noord-Holland who want to practise yoga within a save environment.
 
 ### User Stories
 
@@ -24,16 +23,37 @@ We created this website for people in Noord-Holland who want to practise yoga wi
 <strong>User Story 8:</strong> People who want to find peace within thereselfs.<br>
 
 ### Strategy
-Who, what, where, when, why.
-
-### Scope  /  content requirements
-The website is easy to read and easy to use.
-There is a very clear sign up form for the people who want to connect with us.
-The website provides basic yoga information, the available locations and a sign up form.
+This website is for people in Noord-Holland who want to practise yoga within a save environment.
+A beautiful location where you can feel connected to yourself and others.
+The yoga lessons are available every workday at different locations trough Noord-Holland.
 The three available locations are bigger cities in Noord-Holland.
 
-### Structure / hoe georganiseerd, content prioriteit, structuur pagina
+### Scope 
+The website is easy to read and easy to use.
+The website provides basic yoga information, the available locations and a sign up form.
+The sign up form is a very clear form with radiobuttons for the preferred yoga day and location.
+Every location has his own Google Map with the yoga location in the middle.
+Every page has a link to the sign-up form.
 
+### Structure
+Every page has the same fixed header.<br><br>
+Every page has the same footer.<br><br>
+The __index.html__ page starts with a yoga image to get in the right yoga mood.
+Underneath the image will all the genarl information about Yoga City with links to the three locations.
+Followed by basic yoga information and yoga history.
+At the bottom some yoga images with a hoover over quote on top of each image.<br><br>
+The locations button will give you the three location options.<br><br>
+__alkmaar.html hoorn.html and zaandam.html__ are three pages with the same structure.
+Starting with three yoga images.
+Followed by the location information and a sign-up link.
+Underneath a full width Google Map with the location name in the middle.<br><br>
+__signup.html__ will have a yoga image on the background.
+On top of the image will be the sign-up form.
+With radionbuttons for every yoga day and radiobuttons for every yoga location.
+Followed by a name and email text field and a button for sending the form.
+When the form is send, you will be directed the the Thank You page.<br><br>
+__thankyou.html__ is only available when the sign-up form is send.
+One thank you image.
 
 ### Skeleton / uiterlijk, navigatie, menu's, layout, blokken, buttons
 __Header:__ gold & white.<br>
