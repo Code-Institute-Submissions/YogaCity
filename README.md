@@ -36,24 +36,28 @@ Every location has his own Google Map with the yoga location in the middle.
 Every page has a link to the sign-up form.
 
 ### Structure
-Every page has the same fixed header.<br><br>
+Every page has the same fixed header.<br>
 Every page has the same footer.<br><br>
-The __index.html__ page starts with a yoga image to get in the right yoga mood.
+__index.html__ <br>
+The page starts with a yoga image to get in the right yoga mood.
 Underneath the image will all the genarl information about Yoga City with links to the three locations.
 Followed by basic yoga information and yoga history.
-At the bottom some yoga images with a hoover over quote on top of each image.<br><br>
+At the bottom some yoga images with a hoover over quote on top of each image.
 The locations button will give you the three location options.<br><br>
-__alkmaar.html hoorn.html and zaandam.html__ are three pages with the same structure.
+__alkmaar.html hoorn.html and zaandam.html__ <br>
+All three pages with the same structure.
 Starting with three yoga images.
 Followed by the location information and a sign-up link.
 Underneath a full width Google Map with the location name in the middle.<br><br>
-__signup.html__ will have a yoga image on the background.
+__signup.html__ <br>
+The sign up page will have a yoga image on the background.
 On top of the image will be the sign-up form.
 With radionbuttons for every yoga day and radiobuttons for every yoga location.
 Followed by a name and email text field and a button for sending the form.
 When the form is send, you will be directed the the Thank You page.<br><br>
-__thankyou.html__ is only available when the sign-up form is send.
-One thank you image.
+__thankyou.html__ <br>
+This page is only available when the sign-up form is send.
+It will have one Thank You image.
 
 ### Skeleton / uiterlijk, navigatie, menu's, layout, blokken, buttons
 __Header:__ gold & white.<br>
