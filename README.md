@@ -52,12 +52,11 @@ Underneath a full width Google Map with the location name in the middle.<br><br>
 __signup.html__ <br>
 The sign up page will have a yoga image on the background.<br>
 On top of the image will be the sign-up form.<br>
-With radionbuttons for every yoga day and radiobuttons for every yoga location.<br>
+With radionbuttons for every yoga location and radiobuttons for every yoga day.<br>
 Followed by a name and email text field and a button for sending the form.<br>
 When the form is send, you will be directed the the Thank You page.<br><br>
 __thankyou.html__ <br>
-This page is only accessible when the sign-up form is send.<br>
-It will have one Thank You image.
+This page will have one big _Thank You_ image.
 
 ### Skeleton
 __Header:__ <br>
@@ -107,14 +106,12 @@ The golden circle of the navigation menu will get a shadow element below the cir
 When the _locations_ menu item is pressed, there will be a collapsable menu with the available locations.<br>
 The collapsed menu will have the location names vertical, dark grey text with a white background.
 On small and medium devices the menu will become a collapsable menu or _hamburger_ menu.<br>
-The _hamburger_ menu will have a golden border.
-<br><br>
+The _hamburger_ menu will have a golden border.<br>
 
 __Footer__<br>
 Starting on the left with an _email_ icon, which will direct you to your email program.<br>
 Next the _phone_ icon, which will directly start calling.<br>
 Followed by the _Facebook_, _Twitter_, _YouTube_ and _Instagram_ icon, which will lead you to the right external webpage.<br>
-<br><br>
 
 __Home page / index.html__<br>
 Starting with a big image, full width on all devices.<br>
@@ -127,7 +124,7 @@ On large devices there will be two images, full width. And then again two images
 On medium and small devices there will be one image, full width. Four images underneath each other.<br>
 All four images will have a hover over effect.<br>
 In the top left of each image will show a text quote.<br>
-Text color white and background color dark grey and a little bit transparant.<br><br>
+Text color white and background color dark grey and a little bit transparant.<br>
 
 __Locations__<br>
 Each location will have the same build up.<br>
@@ -141,7 +138,7 @@ Next to each title will be a playful icon.<br>
 At the bottom will be a map, full width, with a marker with the location name. <br>
 The map will be zoomed in and the area surrounding of the yoga location is clearly visible.<br>
 The title and location text will be in big white letters for good visabilatyin, the background of the marker will be color gold. <br>
-The golden background will have a little tip underneath, so it looks like a text balloon.<br><br>
+The golden background will have a little tip underneath, so it looks like a text balloon.<br>
 
 __Sign Up__<br>
 One big image will fill the page, full width.<br>
@@ -151,23 +148,21 @@ The sign up form will have the color dark grey and is a little bit transparant s
 The title will be color gold with next to the title a playful icon.<br>
 The title will have a hover over effect and will change the text color to silver and will have a shine effect.<br>
 The rest of the text will be white.<br>
-Three verticaly radio buttons for each location, where the client can choose from.
-Followed by five verticaly radio buttons for each day of the week, where the client can choose from.
-Underneath the radio buttons will be two verticaly text input field for the name and e-mail address. 
-The borders will be color white, with hoover over effect to change them to color gold.
-And at the bottum will a submit button. White text with background color gold. 
+Three verticaly radio buttons for each location.<br>
+The locations are in alphabetical order.<br> 
+Automatically the first selectable radiobutton is selected.<br>
+Followed by five verticaly radio buttons for each day of the week.<br>
+Automatically the first selectable radiobutton is selected.<br>
+Underneath the radio buttons will be two text input field underneath each other for the name and e-mail address. <br>
+These are required field.<br>
+The borders will be color white, with hoover over effect to change them to color gold.<br>
+When the send button is pressed and the required fields are not filled in, the borders of the required text fields will change to red with a red cross at the end.<br>
+And at the bottom will be a submit button with white text and the background color gold. <br>
 With hoover over effect to change the text color to gold and the background color to silver.
 
-xxxx
-
-
-With radionbuttons for every yoga day and radiobuttons for every yoga location.<br>
-Followed by a name and email text field and a button for sending the form.<br>
-When the form is send, you will be directed the the Thank You page.<br><br>
-See trough form with five radio buttons for each week day, all lined up vertically. <br>
-Followed by three radio buttons for each location, all lined up vertically. <br>
-Two wide required text fields with name and email address.<br>
-When the send button is pressed, it will lead you to the _thankyou.html_ page.<br>
+__Thank You__<br>
+This page is only accessible when the sign-up form is send.<br>
+There will no menu item be active
 
 ### Mockups
 The following wireframes were created using Balsamiq to design the website layout options:
