@@ -162,7 +162,7 @@ With hoover over effect to change the text color to gold and the background colo
 
 __Thank You__<br>
 This page is only accessible when the sign-up form is send.<br>
-There will no menu item be active
+No menu item will be active on this page.
 
 ### Mockups
 The following wireframes were created using Balsamiq to design the website layout options:
@@ -176,7 +176,7 @@ The webpage consists of the following features:<br><br>
 __Bootstrap form__<br>
 The sign-up form uses Bootstrap form features.<br>
 Radio buttons, to choose the preferred options.<br>
-The form has required text fields for the name and email address.<br>
+The form has required text fields for the name and email address.
 <br><br>
 __Bootstrap Icons__<br>
 All grey icons are used in the footer for social media, phone and email, linked to the right place.<br>
@@ -280,7 +280,7 @@ The full content is made up and written by me.
 The photos used in this website were obtained from [Unsplashed](https://unsplash.com/).
 
 ### Acknowledgements
-[Code Institute](https://codeinstitute.net/) Fullstack Web Development course.<br>
-[W3Schools](https://www.w3schools.com/) for extra general coding knowledge.<br>
-[Google Maps](https://developers.google.com/maps/documentation/javascript/get-api-key) API key info.<br>
-[Bootstrap](https://getbootstrap.com/) for info about forms.<br>
+Everything I learned from the [Code Institute](https://codeinstitute.net/) Fullstack Web Development course.<br>
+I used [W3Schools](https://www.w3schools.com/) for extra general coding knowledge.<br>
+I used the [Google Maps](https://developers.google.com/maps/documentation/javascript/get-api-key) site to create three API key's and for general information.<br>
+I used [Bootstrap](https://getbootstrap.com/) for info about forms and offcourse to use the icons, buttons and navbar.<br>
