@@ -61,7 +61,7 @@ This page will have one big _Thank You_ image.
 ### Skeleton
 __Header:__ <br>
 Same fixed header on every page.<br>
-White background and golden title with menu. <br><br>
+White background and golden title with menu. <br>
 
 __Menu:__ <br>
 The menu items will be within golden circles. <br>
@@ -173,23 +173,25 @@ The following wireframes were created using Balsamiq to design the website layou
 
 ## Features
 The webpage consists of the following features:<br><br>
-__Navigation menu__<br>
-The navbar stays collapsed on small and medium devices and a Bootstrap bar icon is used.
-The navbar contains links to associated pages: Home, Locations (Alkmaar, Hoorn, Zaandam) and Sign-Up.
+__Bootstrap form__<br>
+The sign-up form uses Bootstrap form features.<br>
+Radio buttons, to choose the preferred options.<br>
+The form has required text fields for the name and email address.<br>
 <br><br>
-__Footer__<br>
-Clear white footer containing all icon with links to social media accounts and contactinfo.
+__Bootstrap Icons__<br>
+All grey icons are used in the footer for social media, phone and email, linked to the right place.<br>
+In the fixed header is a home icon, linked to the _index.html_.<br>
+In the fixed header is a _hamburger_ icon only on small and medium devices.<br>
+Next to a lot of titles is a playful icon, they are not linked.
 <br><br>
-__Sign up form__<br>
-The sign-up form uses Bootstrap form features.
-The form requires to provide your name and email address.
-When the required fields are filled in and you press the button, you will be forwarded to the _Thank You page_.
-<br><br>
-__Icons__<br>
-All light grey Bootstrap icons are used for social media and to get in contact.
-<br><br>
-__Button__<br>
+__Bootstrap Button__<br>
 The sign-up form uses a Bootstrap button, which is styled with CSS.
+<br><br>
+__Bootstrap Navbar__<br>
+Makes the _locations_ button a drop down list.
+<br><br>
+__Google Maps__<br>
+Each location has his own API key and his own JavaScript form.
 
 ## Technologies
 
