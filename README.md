@@ -39,24 +39,26 @@ Every page has a link to the sign-up form.
 Every page has the same fixed header.<br>
 Every page has the same footer.<br><br>
 __index.html__ <br>
-The page starts with a yoga image to get in the right yoga mood.
-Underneath the image will all the genarl information about Yoga City with links to the three locations.
-Followed by basic yoga information and yoga history.
-At the bottom some yoga images with a hoover over quote on top of each image.
+The page starts with a yoga image to get in the right yoga mood.<br>
+Underneath the image will all the genarl information about Yoga City with links to the three locations.<br>
+Followed by basic yoga information and yoga history.<br>
+At the bottom some yoga images with a hoover over quote on top of each image.<br>
 The locations button will give you the three location options.<br><br>
-__alkmaar.html hoorn.html and zaandam.html__ <br>
-All three pages with the same structure.
-Starting with three yoga images.
-Followed by the location information and a sign-up link.
+__alkmaar.html__<br>
+__hoorn.html__<br>
+__zaandam.html__<br>
+All three pages with the same structure.<br>
+Starting with three yoga images.<br>
+Followed by the location information and a sign-up link.<br>
 Underneath a full width Google Map with the location name in the middle.<br><br>
 __signup.html__ <br>
-The sign up page will have a yoga image on the background.
-On top of the image will be the sign-up form.
-With radionbuttons for every yoga day and radiobuttons for every yoga location.
-Followed by a name and email text field and a button for sending the form.
+The sign up page will have a yoga image on the background.<br>
+On top of the image will be the sign-up form.<br>
+With radionbuttons for every yoga day and radiobuttons for every yoga location.<br>
+Followed by a name and email text field and a button for sending the form.<br>
 When the form is send, you will be directed the the Thank You page.<br><br>
 __thankyou.html__ <br>
-This page is only available when the sign-up form is send.
+This page is only available when the sign-up form is send.<br>
 It will have one Thank You image.
 
 ### Skeleton / uiterlijk, navigatie, menu's, layout, blokken, buttons
