@@ -58,16 +58,43 @@ With radionbuttons for every yoga day and radiobuttons for every yoga location.<
 Followed by a name and email text field and a button for sending the form.<br>
 When the form is send, you will be directed the the Thank You page.<br><br>
 __thankyou.html__ <br>
-This page is only available when the sign-up form is send.<br>
+This page is only accessible when the sign-up form is send.<br>
 It will have one Thank You image.
 
-### Skeleton / uiterlijk, navigatie, menu's, layout, blokken, buttons
-__Header:__ gold & white.<br>
-__Menu:__ menu items within golden circles.<br>
-__Footer:__ white with grey icons, all lined up horizontally.<br>
-__Pages:__ text with white background and big images.<br>
-__Form:__ see trough form with radio buttons and required text with big image on background.<br>
-__Maps:__ each location with own map.
+### Skeleton
+__Header:__ <br>
+Same fixed header on every page.<br>
+White background and golden title with menu. <br><br>
+
+__Menu:__ <br>
+The menu items will be within golden circles. <br>
+All lined up horizontally in large size, hamburger icon in medium and small size.<br>
+On every page it will be visible, which page is active.<br>
+There will be a grey circle around the menu item with the golden circle.<br>
+When the page _Alkmaar_, _Hoorn_ or _Zaandam_ is selected, the active circle will be around the _Location_ menu item.<br><br>
+
+__Footer:__ <br>
+The footer is white with grey icons, all lined up horizontally.<br>
+Starting with an _email_ icon, which will direct you to your email program.<br>
+Next the _phone_ icon, which will directly start calling.<br>
+Followed by the _Facebook_, _Twitter_, _YouTube_ and _Instagram_ icon, which will lead you to the external webpage.<br><br>
+
+__All Pages:__ <br>
+White background, text in dark grey, titles in gold.<br>
+Big yoga images. Full width or side by side.<br>
+With a sign-up link, which will link you to _signup.html_. <br>
+
+__Form:__ <br>
+See trough form with five radio buttons for each week day, all lined up vertically. <br>
+Followed by three radio buttons for each location, all lined up vertically. <br>
+Two wide required text fields with name and email address.<br>
+When the send button is pressed, it will lead you to the _thankyou.html_ page.<br><br>
+
+__Maps:__ 
+Each location will have his own Google Map with his own Google Maps API Key and his own JavaScript form.<br> 
+The location name in the middle of the map. <br> 
+Little background in gold with white text.<br> 
+The golden background will have a little tip underneath, so it looks like a text balloon.
 
 ### Surface / details 
 Font family: 'Noto Sans JP'.<br>
