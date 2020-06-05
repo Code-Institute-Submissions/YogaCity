@@ -40,10 +40,8 @@ Every page has the same fixed header.<br>
 Every page has the same footer.<br><br>
 __index.html__ <br>
 The page starts with a yoga image to get in the right yoga mood.<br>
-Underneath the image will all the genarl information about Yoga City with links to the three locations.<br>
-Followed by basic yoga information and yoga history.<br>
-At the bottom some yoga images with a hoover over quote on top of each image.<br>
-The locations button will give you the three location options.<br><br>
+Underneath the image will all the general information about Yoga City with links to the three locations.<br>
+Followed by basic yoga information and yoga history.<br><br>
 __alkmaar.html__<br>
 __hoorn.html__<br>
 __zaandam.html__<br>
@@ -71,13 +69,11 @@ The menu items will be within golden circles. <br>
 All lined up horizontally in large size, hamburger icon in medium and small size.<br>
 On every page it will be visible, which page is active.<br>
 There will be a grey circle around the menu item with the golden circle.<br>
-When the page _Alkmaar_, _Hoorn_ or _Zaandam_ is selected, the active circle will be around the _Location_ menu item.<br><br>
+When the page _Alkmaar_, _Hoorn_ or _Zaandam_ is selected, the active circle will be around the _Location_ menu item.<br>
 
 __Footer:__ <br>
 The footer is white with grey icons, all lined up horizontally.<br>
-Starting with an _email_ icon, which will direct you to your email program.<br>
-Next the _phone_ icon, which will directly start calling.<br>
-Followed by the _Facebook_, _Twitter_, _YouTube_ and _Instagram_ icon, which will lead you to the external webpage.<br><br>
+On small, medium and large devices, the icons stay all horizontally.<br>
 
 __All Pages:__ <br>
 White background, text in dark grey, titles in gold.<br>
@@ -88,65 +84,90 @@ __Form:__ <br>
 See trough form with five radio buttons for each week day, all lined up vertically. <br>
 Followed by three radio buttons for each location, all lined up vertically. <br>
 Two wide required text fields with name and email address.<br>
-When the send button is pressed, it will lead you to the _thankyou.html_ page.<br><br>
+When the send button is pressed, it will lead you to the _thankyou.html_ page.<br>
 
 __Maps:__ 
 Each location will have his own Google Map with his own Google Maps API Key and his own JavaScript form.<br> 
 The location name in the middle of the map. <br> 
-Little background in gold with white text.<br> 
-The golden background will have a little tip underneath, so it looks like a text balloon.
 
-### Surface / details 
-Font family: 'Noto Sans JP'.<br>
-Font color: #666666 (dark grey).<br>
-Font color titles: #bf9b30 (gold), with a text shadow element.<br>
-Some hover over titles change font color from gold to font color: #c0c0c0 (silver).<br><br>
+### Surface
+All text with font family: 'Noto Sans JP'.<br>
+All text with font color: #666666 (dark grey).<br>
+All titles with font color: #bf9b30 (gold)<br>
 ![](assets/screenshots/%23BF9B30.PNG)
 ![](assets/screenshots/%23C0C0C0.PNG)
 <br><br>
+
 __Header__<br>
-Full width white background with on the left the title in the color gold with text shadow.
-The navigation menu will be horizontally on the right. Each navigation item will be placed in a seprate golden circle.
-The active page will have a grey border around the golden circle of the navigation menu.
-The golden circle of the navigation menu will get a shadow element below the circle, when hover over.
-When the locations menu item is pressed, there will be a collapsable menu with the available locations.
+The uppercase title will be on the left in the color gold with text shadow #666666 (dark grey).<br>
+The navigation menu will be horizontally on the right on large devices. <br>
+Each navigation menu item will be placed in a seprate golden circle. <br>
+The active page will have a grey border around the golden circle of the navigation menu.<br>
+The golden circle of the navigation menu will get a shadow element below the circle, when hover over.<br>
+When the _locations_ menu item is pressed, there will be a collapsable menu with the available locations.<br>
+The collapsed menu will have the location names vertical, dark grey text with a white background.
+On small and medium devices the menu will become a collapsable menu or _hamburger_ menu.<br>
+The _hamburger_ menu will have a golden border.
 <br><br>
+
 __Footer__<br>
-The footer will be the same at all pages and all sizes.
-White with light gray icons horizontally.
-With social media and contacting icons. All linking to the right place.
+Starting on the left with an _email_ icon, which will direct you to your email program.<br>
+Next the _phone_ icon, which will directly start calling.<br>
+Followed by the _Facebook_, _Twitter_, _YouTube_ and _Instagram_ icon, which will lead you to the right external webpage.<br>
 <br><br>
-__Home page__<br>
-Starting with a big image, full width.
-Followed by a white block with text. The titles and the sign up link are color gold. The sign up link will link to the right page.
-And the bottom here will be four images.
-On large devices there will be two images, full width. And then again two images, full width.
-On medium and small devices there will be one image, full width. Four images underneath each other.
-All four images will have a hover over effect. In the top left of the image will show a text quote with transparant background.
-<br><br>
+
+__Home page / index.html__<br>
+Starting with a big image, full width on all devices.<br>
+Followed by a white block with text. <br>
+The titles and the sign up link are color gold. <br>
+The sign up link will link to the _sign-up_ page.<br>
+The sign up link will change to color silver when hover over.<br>
+And at the bottom here will be four images.<br>
+On large devices there will be two images, full width. And then again two images, full width.<br>
+On medium and small devices there will be one image, full width. Four images underneath each other.<br>
+All four images will have a hover over effect.<br>
+In the top left of each image will show a text quote.<br>
+Text color white and background color dark grey and a little bit transparant.<br><br>
+
+__Locations__<br>
+Each location will have the same build up.<br>
+Starting with three images.<br>
+On small and medium devices the three images will be full width underneath each other.<br>
+On large devices there will be one image, full width. Underneath that image will be two images next to each other, full width.<br>
+Followed by a white block with text. <br>
+The titles and the sign up link are color gold. <br>
+The sign up link will link to the _sign-up_ page.<br>
+Next to each title will be a playful icon.<br>
+At the bottom will be a map, full width, with a marker with the location name. <br>
+The map will be zoomed in and the area surrounding of the yoga location is clearly visible.<br>
+The title and location text will be in big white letters for good visabilatyin, the background of the marker will be color gold. <br>
+The golden background will have a little tip underneath, so it looks like a text balloon.<br><br>
+
 __Sign Up__<br>
-One image, full width.
-The sign up form will be transparant on top of the image. 
-The title will be color gold with a hover over effect. Next to the title will be a playful icon.
-The hover over effect will change the text color to silver and will have a shine effect.
+One big image will fill the page, full width.<br>
+On small and medium devices the form will be place in the center.<br>
+On large devices the form will be place on the left.<br>
+The sign up form will have the color dark grey and is a little bit transparant so you can still see the image. <br>
+The title will be color gold with next to the title a playful icon.<br>
+The title will have a hover over effect and will change the text color to silver and will have a shine effect.<br>
+The rest of the text will be white.<br>
 Three verticaly radio buttons for each location, where the client can choose from.
 Followed by five verticaly radio buttons for each day of the week, where the client can choose from.
 Underneath the radio buttons will be two verticaly text input field for the name and e-mail address. 
 The borders will be color white, with hoover over effect to change them to color gold.
 And at the bottum will a submit button. White text with background color gold. 
 With hoover over effect to change the text color to gold and the background color to silver.
-<br><br>
-__Locations__<br>
-Each location will have the same build up.
-Starting with three images.
-On large devices there will be one image, full width. Underneath that image will be two images next to each other, full width.
-On medium and small devices the three images will be places underneath each other, all full width.
-Followed by a white block with text. 
-The titles and the sign up link are color gold. The sign up link will link to the right page.
-Next to each title will be a playful icon.
-At the bottom will be a map, full width, with a marker on the right location. 
-The map will be zoomed in and the area surrounding of the yoga location is clearly visible.
-The marker will have the title and location text in big white letters for good visabilaty, background color gold. 
+
+xxxx
+
+
+With radionbuttons for every yoga day and radiobuttons for every yoga location.<br>
+Followed by a name and email text field and a button for sending the form.<br>
+When the form is send, you will be directed the the Thank You page.<br><br>
+See trough form with five radio buttons for each week day, all lined up vertically. <br>
+Followed by three radio buttons for each location, all lined up vertically. <br>
+Two wide required text fields with name and email address.<br>
+When the send button is pressed, it will lead you to the _thankyou.html_ page.<br>
 
 ### Mockups
 The following wireframes were created using Balsamiq to design the website layout options:
