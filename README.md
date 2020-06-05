@@ -176,7 +176,13 @@ __Sign-up form__<br>
 The sign-up form has required attributes which are needed before submitting the form.
 
 ## Testing results
-(screenshot)
+HTML validator tested on the following pages:
+index.html, alkmaar.html, hoorn.html, zaandam.html, signup.html, thankyou.html
+![](assets/screenshots/html_validator.PNG)
+<br>
+CSS validator tested on the following page:
+style.css<br>
+![](assets/screenshots/css_validator.PNG)
 
 ## Deployment
 I started working on this project in Repl.it because I worked on it from different devices.
