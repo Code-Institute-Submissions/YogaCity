@@ -14,7 +14,7 @@
 
     <header> 
           <nav class="navbar navbar-expand-xl navbar-light">   
-            <div><h1 id="logo"><a class="navbar-brand logo_styling" style="color:#bf9b30">Yoga City</a></h1></div> 
+            <div id="logo"><a class="navbar-brand logo_styling" style="color:#bf9b30">Yoga City</a></div>  
             <button id="hamburger" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -42,7 +42,7 @@
     <form class="signup-form needs-validation" novalidate action="thankyou.html">
        <h1 class="form_title"><a href="#" class="effect-shine">Sign up today! <i class="fas fa-heartbeat"></i></a></h1>
        
-       <section>Select your preferred location:<br>
+       <h6>Select your preferred location:</h6>
        <input type="radio" checked name="yoga_location" id="alkmaar" value="alkmaar">
        <label for="alkmaar">Alkmaar</label><br>
 
@@ -51,9 +51,9 @@
 
        <input type="radio" name="yoga_location" id="zaandam" value="zaandam">
        <label for="zaandam">Zaandam</label>
-       </section><br>
+       <br><br>
        
-       <section>Select your yoga day:<br>
+       <h6>Select your yoga day:</h6>
        <input type="radio" checked name="yoga_day" id="monday" value="monday">
        <label for="monday">Monday</label><br>
 
@@ -67,8 +67,8 @@
        <label for="thursday">Thursday</label><br>
       
        <input type="radio" name="yoga_day" id="friday" value="friday">
-       <label for="friday">Friday</label>
-       </section>
+       <label for="friday">Friday</label><br>
+       
 
        <label for="name"></label>
        <input type="text" class="form-control text-input"  name="name" id="name" placeholder="Name" required>
