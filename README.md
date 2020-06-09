@@ -273,7 +273,7 @@ And the following map:
 <ul>
   <li>assets
 </ul>
-Inside the _assets_ map I created five new maps:
+Inside the <strong>assets</strong> map I created five new maps:
 <ul>
   <li>css
   <li>images
@@ -281,11 +281,11 @@ Inside the _assets_ map I created five new maps:
   <li>mockups
   <li>screenshots
 </ul>
-Inside the _css_ map is the css style sheet called __style.css__.<br>
-Inside the _images_ map are all the images used on the website.<br>
-Inside the _js_ map are the three JavaScript sheets with the Google Maps information.<br>
-Inside the _mockups_ map are the three mockups for small, medium and large devices.<br>
-Inside the _screenshots_ map are all screenshots used in the README.md.<br>
+Inside the <strong>css</strong> map is the css style sheet called <strong>style.css</strong>.<br>
+Inside the <strong>images</strong> map are all the images used on the website.<br>
+Inside the <strong>js</strong> map are the three JavaScript sheets with the Google Maps information.<br>
+Inside the <strong>mockups</strong> map are the three mockups for small, medium and large devices.<br>
+Inside the <strong>screenshots</strong> map are all screenshots used in the README.md.<br>
 Ending with the README.md
 
 ### New Repository
