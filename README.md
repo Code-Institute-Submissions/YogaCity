@@ -300,8 +300,15 @@ First you need an account on [GitHub](https://github.com) which you can download
   <li>Click the green button with <strong>Create repository</strong>.
 </ol>
 
+### Creating a branch
 
-### Deployment in GitHub
+<ol>
+  <li>Click on _settings_.
+  <li>Scroll down to _GitHub Pages_.
+  <li>At _Source_ the button stands on _None_, click it and select _master branch_.
+  <li>Your site is ready to be published at ..... Here stands your website name.
+</ol>
+
 ### Clone and contribute
 ### Create your own Google API keys
 
