@@ -261,28 +261,28 @@ Every time I was on my own laptop I copied everything to GitPod and pushed it to
 Like this I also always had an extra backup, when needed.
 <br><br>
 This website has the following html pages:
-<ol>
+<ul>
   <li>index.html
   <li>alkmaar.html
   <li>hoorn.html
   <li>zaandam.html
   <li>signup.html
   <li>thankyou.html
-</ol>
+</ul>
 And the following map:
-<ol>
+<ul>
   <li>assets
-</ol>
-Inside the _asset_ map I created three new maps:
-<ol>
+</ul>
+Inside the _assets_ map I created five new maps:
+<ul>
   <li>css
   <li>images
   <li>js
   <li>mockups
   <li>screenshots
-</ol>
+</ul>
 Inside the _css_ map is the css style sheet called __style.css__.<br>
-Inside the _images_ map are all the images.<br>
+Inside the _images_ map are all the images used on the website.<br>
 Inside the _js_ map are the three JavaScript sheets with the Google Maps information.<br>
 Inside the _mockups_ map are the three mockups for small, medium and large devices.<br>
 Inside the _screenshots_ map are all screenshots used in the README.md.<br>
