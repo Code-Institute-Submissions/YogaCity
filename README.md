@@ -303,10 +303,10 @@ First you need an account on [GitHub](https://github.com) which you can download
 ### Creating a branch
 
 <ol>
-  <li>Click on _settings_.
-  <li>Scroll down to _GitHub Pages_.
-  <li>At _Source_ the button stands on _None_, click it and select _master branch_.
-  <li>Your site is ready to be published at ..... Here stands your website name.
+  <li>Click on <strong>settings</strong>.
+  <li>Scroll down to <strong>GitHub Pages</strong>.
+  <li>At <strong>Source</strong> the button stands on <strong>None</strong>, click it and select <strong>master branch</strong>.
+  <li>Your site is ready to be published at (your branch name).
 </ol>
 
 ### Clone and contribute
