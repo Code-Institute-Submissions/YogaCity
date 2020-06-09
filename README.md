@@ -260,7 +260,7 @@ I started working on this project in Repl.it because I worked on it from differe
 Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub.
 Like this I also always had an extra backup, when needed.
 <br><br>
-This website has the following html pages:
+This website contains the following html pages:
 <ul>
   <li>index.html
   <li>alkmaar.html
@@ -288,7 +288,19 @@ Inside the <strong>mockups</strong> map are the three mockups for small, medium 
 Inside the <strong>screenshots</strong> map are all screenshots used in the README.md.<br>
 Ending with the README.md
 
-### New Repository
+### New Repository in GitHub
+First you need an account on [GitHub](https://github.com) which you can download from [here](https://desktop.github.com).<br>
+<ol>
+  <li>Click <strong>Create a New Repository</strong>.
+  <li>At <strong>Repository template</strong> you can select a template, if you have one.
+  <li>At <strong>Repository name</strong> you can choose the name for you new repository.
+  <li>At <strong>Description (optional)</strong> you give you repository a decription.
+  <li>Next you can choose if you want a <strong>Public</strong> or a <strong>Private</strong> repository.
+  <li><strong>Initialize this repository with a README</strong> you click this checkbox if you like to create a README file.
+  <li>Click the green button with <strong>Create repository</strong>.
+</ol>
+
+
 ### Deployment in GitHub
 ### Clone and contribute
 ### Create your own Google API keys
