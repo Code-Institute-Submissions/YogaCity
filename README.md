@@ -259,12 +259,34 @@ style.css<br>
 I started working on this project in Repl.it because I worked on it from different devices.
 Every time I was on my own laptop I copied everything to GitPod and pushed it to GitHub.
 Like this I also always had an extra backup, when needed.
-<br>
-This website starts with the: index.html, followed by the map ‘assets’, with a map of ‘images’ and a map of ‘css’.
-In the ’css’ map you will find the page: style.css.
-A map called 'mockups' with small, medium and large wireframes.
-A map called 'screenshots' with an image of the used colors and a demo.gif.
-Ending with the README.md.
+<br><br>
+This website has the following html pages:
+<ol>
+  <li>index.html
+  <li>alkmaar.html
+  <li>hoorn.html
+  <li>zaandam.html
+  <li>signup.html
+  <li>thankyou.html
+</ol>
+And the following map:
+<ol>
+  <li>assets
+</ol>
+Inside the _asset_ map I created three new maps:
+<ol>
+  <li>css
+  <li>images
+  <li>js
+  <li>mockups
+  <li>screenshots
+</ol>
+Inside the _css_ map is the css style sheet called __style.css__.<br>
+Inside the _images_ map are all the images.<br>
+Inside the _js_ map are the three JavaScript sheets with the Google Maps information.<br>
+Inside the _mockups_ map are the three mockups for small, medium and large devices.<br>
+Inside the _screenshots_ map are all screenshots used in the README.md.<br>
+Ending with the README.md
 
 ### New Repository
 ### Deployment in GitHub
