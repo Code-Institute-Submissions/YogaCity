@@ -301,7 +301,7 @@ First you need an account on [GitHub](https://github.com) which you can download
 </ol>
 
 ### Creating a branch
-
+To create a branch link you have to go to your repository in GitHub and follow the following steps:
 <ol>
   <li>Click on <strong>settings</strong>.
   <li>Scroll down to <strong>GitHub Pages</strong>.
@@ -309,7 +309,17 @@ First you need an account on [GitHub](https://github.com) which you can download
   <li>Your site is ready to be published at (your branch name).
 </ol>
 
-### Clone and contribute
+### Push from GitPod to GitHub
+When you make some changes in GitPod you can push them to GitHub.
+<ol>
+  <li>In GitPod click on <strong>Source Control: Git</strong>.
+  <li>In the textfield you can give your changes a message name.
+  <li>Underneath the line <strong>CHANGES</strong>, you see all the changes that have been made. Press the <strong>+</strong> button behind the page name which you want to be pushed. You can also press the <strong>+</strong> button next to the line <strong>CHANGES</strong>, to push all the made changes.
+  <li>Klink the <strong>Commit</strong>.
+  <li>On the right, press the GitPod logo with the name <strong>Pull Request</strong>.
+  <li>A yellow field appears. Click the blue button with <strong>Push</strong>.
+</ol>
+    
 ### Create your own Google API keys
 
 ## Credits
