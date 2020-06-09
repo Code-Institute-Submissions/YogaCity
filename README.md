@@ -320,7 +320,19 @@ When you make some changes in GitPod you can push them to GitHub.
   <li>A yellow field appears. Click the blue button with <strong>Push</strong>.
 </ol>
     
-### Create your own Google API keys
+### Create your own Google API key
+To start you need to have a Google Account.
+<ol>
+  <li>Go to the [Google Cloud Platform Console](https://cloud.google.com/console/google/maps-apis/overview).
+  <li>On the top, next to the text <strong>Google Cloud Platform</strong> you see a drop project drop down menu.
+  <li>When you click it, you will get a pop up with all your projects, if you have any.
+  <li>Click on <strong>New Project</strong>.
+  <li>Fill in your <strong>Project Name</strong> and click <strong>Create</strong>.
+  <li>Go to your new project and click on <strong>Credentials</strong>.
+  <li>Go to <strong>Credentials in APIs & Services</strong>.
+  <li>Click on <strong>Create Credentials</strong> and <strong>API Key</strong>.
+  <li>Copy your API Key code and paste into your website.
+</ol>
 
 ## Credits
 
