@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
- 
+
 body{
   color: #666666;
   font-family: 'Noto Sans JP', sans-serif;
@@ -48,40 +48,33 @@ header {
     letter-spacing: 3px;
     list-style:none;   
     color: white;
+    background-color: #bf9b30;
     font-family: 'Noto Sans JP', sans-serif;
     letter-spacing: 2px;
     text-shadow: 2px 2px #666666;
+    margin-right: 60px;
 }
 
-#logo, #menu{
+#logo{
     line-height: 60px;
 }
 
 #menu li {
-    float: right;
-    margin-right: 60px;
+    float: right; 
+
 }
 
 #menu a {
     text-decoration: none;
     color: inherit;
 }
-	 
-#menu a:hover {
-    border-bottom: 5px solid #666666;
-}
-
-.circle {
-  width: 122px;
-  height: 122px;
-  border-radius: 50%;
-  line-height: 100px;
-  text-align: center;
-  background: #bf9b30;
-}
 
 .active {
   border: 2px solid #666666;
+}
+
+#menu a:hover {
+    box-shadow: 0 5px #666666;
 }
 
 #hamburger {
@@ -89,7 +82,7 @@ header {
 }
 
 .locations_text_deco{
-  text-shadow: 0 0 white !important;
+  text-shadow: 0 0 white;
 }
 
 /*    HEADER IMAGE    */
@@ -106,8 +99,6 @@ header {
 .home_info{
   margin-top: 30px;
   margin-bottom: 30px;
-  padding-left: 15%;
-  padding-right: 5%;
 }
 
 
@@ -181,8 +172,6 @@ header {
 
 .hoorn_info{
   padding-top: 20px;
-  padding-left: 15%;
-  padding-right: 15%;
 }
 
 /*  LOCATION ALKMAAR    */
@@ -213,8 +202,6 @@ header {
 
 .alkmaar_info{
   padding-top: 20px;
-  padding-left: 15%;
-  padding-right: 15%;
 }
 
 
@@ -246,8 +233,6 @@ header {
 
 .zaandam_info{
   padding-top: 20px;
-  padding-left: 15%;
-  padding-right: 15%;
 }
 
 
@@ -278,6 +263,8 @@ header {
 .form_title {
   text-shadow: 1px 1px white;
   padding-bottom: 20px;
+  color: #bf9b30;
+  font-size: 35px;
 }
 
 .text-input {
@@ -325,27 +312,6 @@ header {
 }
 
 
-/*    EFFECT SHINE  */
-
-a.effect-shine:hover {
-  color: #c0c0c0;
-  text-shadow: 2px 2px black;
-  -webkit-mask-image: linear-gradient(-75deg, rgba(0,0,0,.6) 30%, #000 50%, rgba(0,0,0,.6) 70%);
-  -webkit-mask-size: 200%;
-  animation: shine 2s infinite;
-}
-
-@-webkit-keyframes shine {
-  from {
-    -webkit-mask-position: 150%;
-  }
-  
-  to {
-    -webkit-mask-position: -50%;
-  }
-}
-
-
 /*     FOOTER      */
 
 .social-networks{
@@ -359,8 +325,8 @@ a.effect-shine:hover {
 
 .social-networks i {
     font-size: 30px;
-    padding-left: 6%;
-    padding-right: 6%;
+    padding-left: 40px;
+    padding-right: 40px;
     padding-top: 40px;
     color: #777777;
 }
@@ -516,8 +482,6 @@ a.effect-shine:hover {
   .home_info{
     margin-top: 30px;
     margin-bottom: 30px;
-    padding-left: 8%;
-    padding-right: 8%;
   }
 
   .social-networks i {
@@ -533,18 +497,6 @@ a.effect-shine:hover {
   }
   .locations_header{
     font-size: 25px;
-  }
-  .alkmaar_info{
-    padding-left: 10%;
-    padding-right: 5%;
-  }
-  .hoorn_info{
-    padding-left: 10%;
-    padding-right: 5%;
-  }
-  .zaandam_info{
-    padding-left: 10%;
-    padding-right: 5%;
   }
   
 
@@ -590,8 +542,8 @@ a.effect-shine:hover {
       background-size: cover;
   }
   .social-networks i{
-    padding-left: 4%;
-    padding-right: 4%;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 }
 
