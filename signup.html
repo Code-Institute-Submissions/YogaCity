@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -34,74 +35,59 @@
           </nav> 
     </header>
 
-
     <!--   SIGNUP FORM   -->
 
 <section class="form-section">
      
-    <form class="signup-form needs-validation" novalidate action="thankyou.html">
-       <h1 class="form_title"><a href="#" class="effect-shine">Sign up today! <i class="fas fa-heartbeat"></i></a></h1>
+    <form method="POST" class="signup-form needs-validation" novalidate action="thankyou.html">
+       <h1 class="form_title">Sign up today! <i class="fas fa-heartbeat"></i></h1>
        
        <h6>Select your preferred location:</h6>
-       <input type="radio" checked name="yoga_location" id="alkmaar" value="alkmaar">
-       <label for="alkmaar">Alkmaar</label><br>
-
-       <input type="radio"  name="yoga_location" id="hoorn" value="hoorn">
-       <label for="hoorn">Hoorn</label><br>
-
+       <span class="d-block mb-1">
+         <input type="radio" checked name="yoga_location" id="alkmaar" value="alkmaar">
+         <label for="alkmaar">Alkmaar</label>
+       </span>
+       <span class="d-block mb-1">
+        <input type="radio"  name="yoga_location" id="hoorn" value="hoorn">
+        <label for="hoorn">Hoorn</label>
+       </span>
+      <span class="d-block mb-4">
        <input type="radio" name="yoga_location" id="zaandam" value="zaandam">
        <label for="zaandam">Zaandam</label>
-       <br><br>
+      </span>
        
        <h6>Select your yoga day:</h6>
-       <input type="radio" checked name="yoga_day" id="monday" value="monday">
-       <label for="monday">Monday</label><br>
-
-       <input type="radio" name="yoga_day" id="tuesday" value="tuesday">
-       <label for="tuesday">Tuesday</label><br>
-      
-       <input type="radio" name="yoga_day" id="wednesday" value="wednesday">
-       <label for="wednesday">Wednesday</label><br>
-
-       <input type="radio" name="yoga_day" id="thursday" value="thursday">
-       <label for="thursday">Thursday</label><br>
-      
-       <input type="radio" name="yoga_day" id="friday" value="friday">
-       <label for="friday">Friday</label><br>
+       <span class="d-block mb-1">
+         <input type="radio" checked name="yoga_day" id="monday" value="monday">
+        <label for="monday">Monday</label>
+       </span>
+       <span class="d-block mb-1">
+        <input type="radio" name="yoga_day" id="tuesday" value="tuesday">
+        <label for="tuesday">Tuesday</label>
+       </span>
+       <span class="d-block mb-1">
+        <input type="radio" name="yoga_day" id="wednesday" value="wednesday">
+        <label for="wednesday">Wednesday</label>
+       </span>
+       <span class="d-block mb-1">
+        <input type="radio" name="yoga_day" id="thursday" value="thursday">
+        <label for="thursday">Thursday</label>
+       </span>
+       <span class="d-block mb-1">
+        <input type="radio" name="yoga_day" id="friday" value="friday">
+        <label for="friday">Friday</label>
+       </span>
        
-
        <label for="name"></label>
        <input type="text" class="form-control text-input"  name="name" id="name" placeholder="Name" required>
-       
+
        <label for="email"></label>
        <input class="form-control text-input" type="email" name="email" id="email" placeholder="Email" required>
        
        <button type="submit" class="button_styling" data-toggle="modal" data-target="#myModal">Let's Yoga</button>
 		</form>
-<script>
 
-(function() {
-  'use strict';
-  window.addEventListener('load', function() {
-
-    var forms = document.getElementsByClassName('needs-validation');
-
-    var validation = Array.prototype.filter.call(forms, function(form) {
-      form.addEventListener('submit', function(event) {
-        if (form.checkValidity() === false) {
-          event.preventDefault();
-          event.stopPropagation();
-        }
-        form.classList.add('was-validated');
-      }, false);
-    });
-  }, false);
-})();
-</script>
-     
 </section> 
-
-
 
     <!--    FOOTER   -->
 
@@ -116,14 +102,14 @@
             </ul>
     </footer>
 
-
     <!--    SCRIPTS   -->
     
-
     <script src="https://kit.fontawesome.com/2da6e47856.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <script src="assets/js/form.js"></script>
 
 </body>
 </html>
