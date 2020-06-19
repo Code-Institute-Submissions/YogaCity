@@ -8,6 +8,7 @@ __Come and connect with us.__
 
 ## Demo
 [Live website](https://kimkesdev.github.io/YogaCity/.)
+![](assets/screenshots/website.gif)
 
 ## UX
 
