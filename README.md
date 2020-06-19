@@ -93,6 +93,7 @@ The location name in the middle of the map. <br>
 All text with font family: 'Noto Sans JP'.<br>
 All text with font color: #666666 (dark grey).<br>
 All titles with font color: #bf9b30 (gold)<br>
+Header image quote text in font color black.<br>
 ![](assets/screenshots/%23BF9B30.PNG)
 ![](assets/screenshots/%23C0C0C0.PNG)
 <br><br>
