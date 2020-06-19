@@ -7,8 +7,8 @@ You are completely focused on yourself and on the other hand we are more connect
 __Come and connect with us.__
 
 ## Demo
-[Live website](https://kimkesdev.github.io/YogaCity/.)
 ![](assets/screenshots/website.gif)
+[Live website](https://kimkesdev.github.io/YogaCity/.)
 
 ## UX
 
@@ -32,7 +32,7 @@ The three available locations are bigger cities in Noord-Holland.
 ### Scope 
 The website is easy to read and easy to use.
 The website provides basic yoga information, the available locations and a sign up form.
-The sign up form is a very clear form with radiobuttons for the preferred yoga day and location.
+The sign up form is a very clear form with radio buttons for the preferred yoga day and location.
 Every location has his own Google Map with the yoga location in the middle.
 Every page has a link to the sign-up form.
 
@@ -55,7 +55,7 @@ The sign up page will have a yoga image on the background.<br>
 On top of the image will be the sign-up form.<br>
 With radionbuttons for every yoga location and radiobuttons for every yoga day.<br>
 Followed by a name and email text field and a button for sending the form.<br>
-When the form is send, you will be directed the the Thank You page.<br><br>
+When the form is send, you will be directed to the _Thank You_ page.<br><br>
 __thankyou.html__ <br>
 This page will have one big _Thank You_ image.
 
@@ -65,15 +65,14 @@ Same fixed header on every page.<br>
 White background and golden title with menu. <br>
 
 __Menu:__ <br>
-The menu items will be within golden circles. <br>
-All lined up horizontally in large size, hamburger icon in medium and small size.<br>
-On every page it will be visible, which page is active.<br>
-There will be a grey circle around the menu item with the golden circle.<br>
-When the page _Alkmaar_, _Hoorn_ or _Zaandam_ is selected, the active circle will be around the _Location_ menu item.<br>
+On large devices: the menu items will be all lined up horizontally within a golden rectangle. <br>
+On medium and small devices: the menu items will be in a hamburger icon.<br>
+The active page will have a grey border around the active menu item.<br>
+When the page _Alkmaar_, _Hoorn_ or _Zaandam_ is selected, the active border will be around the _Location_ menu item.<br>
 
 __Footer:__ <br>
 The footer is white with grey icons, all lined up horizontally.<br>
-On small, medium and large devices, the icons stay all horizontally.<br>
+On small, medium and large devices, the icons will always stay all horizontally.<br>
 
 __All Pages:__ <br>
 White background, text in dark grey, titles in gold.<br>
@@ -101,11 +100,10 @@ All titles with font color: #bf9b30 (gold)<br>
 __Header__<br>
 The uppercase title will be on the left in the color gold with text shadow #666666 (dark grey).<br>
 The navigation menu will be horizontally on the right on large devices. <br>
-Each navigation menu item will be placed in a seprate golden circle. <br>
-The active page will have a grey border around the golden circle of the navigation menu.<br>
-The golden circle of the navigation menu will get a shadow element below the circle, when hover over.<br>
+The active page will have a grey border around the active menu item.<br>
+When hover over a menu item, that item will get a grey shadow at the bottom.<br>
 When the _locations_ menu item is pressed, there will be a collapsable menu with the available locations.<br>
-The collapsed menu will have the location names vertical, dark grey text with a white background.
+The collapsed menu will have the location names vertical, dark grey text with a white background.<br>
 On small and medium devices the menu will become a collapsable menu or _hamburger_ menu.<br>
 The _hamburger_ menu will have a golden border.<br>
 
@@ -116,6 +114,7 @@ Followed by the _Facebook_, _Twitter_, _YouTube_ and _Instagram_ icon, which wil
 
 __Home page / index.html__<br>
 Starting with a big image, full width on all devices.<br>
+When hover over the big image, there will appear a text quote in the top center in black.<br>
 Followed by a white block with text. <br>
 The titles and the sign up link are color gold. <br>
 The sign up link will link to the _sign-up_ page.<br>
@@ -123,9 +122,6 @@ The sign up link will change to color silver when hover over.<br>
 And at the bottom here will be four images.<br>
 On large devices there will be two images, full width. And then again two images, full width.<br>
 On medium and small devices there will be one image, full width. Four images underneath each other.<br>
-All four images will have a hover over effect.<br>
-In the top left of each image will show a text quote.<br>
-Text color white and background color dark grey and a little bit transparant.<br>
 
 __Locations__<br>
 Each location will have the same build up.<br>
@@ -147,7 +143,6 @@ On small and medium devices the form will be place in the center.<br>
 On large devices the form will be place on the left.<br>
 The sign up form will have the color dark grey and is a little bit transparant so you can still see the image. <br>
 The title will be color gold with next to the title a playful icon.<br>
-The title will have a hover over effect and will change the text color to silver and will have a shine effect.<br>
 The rest of the text will be white.<br>
 Three verticaly radio buttons for each location.<br>
 The locations are in alphabetical order.<br> 
@@ -158,7 +153,7 @@ Underneath the radio buttons will be two text input field underneath each other 
 These are required field.<br>
 The borders will be color white, with hoover over effect to change them to color gold.<br>
 When the send button is pressed and the required fields are not filled in, the borders of the required text fields will change to red with a red cross at the end.<br>
-And at the bottom will be a submit button with white text and the background color gold. <br>
+At the bottom will be a submit button with white text and the background color gold. <br>
 With hoover over effect to change the text color to gold and the background color to silver.
 
 __Thank You__<br>
@@ -192,14 +187,20 @@ __Bootstrap Navbar__<br>
 Makes the _locations_ button a drop down list.
 <br><br>
 __Google Maps__<br>
-Each location has his own API key and his own JavaScript form.
+Each location has his own API key and his own JavaScript file.
+<br><br>
+__Text Quote__<br>
+JavaScript file for creating a text quote on top of the header image.
+<br><br>
+__Required form items__<br>
+JavaScript file used for the required parts of the sign up form.
 
 ## Technologies
 
 ### Languages
 [HTML5](https://en.wikipedia.org/wiki/HTML5) for the structure of the website <br>
 [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) for the styling <br>
-[JavaScript](https://en.wikipedia.org/wiki/JavaScript) for the Google Maps
+[JavaScript](https://en.wikipedia.org/wiki/JavaScript) for the Google Maps, header image quote and required fields of the sign up form.
 
 ### Frameworks / Tools / Libraries
 [Balsamiq](https://balsamiq.com.) for the mockups.<br>
@@ -288,6 +289,9 @@ Inside the <strong>js</strong> map are the three JavaScript sheets with the Goog
 Inside the <strong>mockups</strong> map are the three mockups for small, medium and large devices.<br>
 Inside the <strong>screenshots</strong> map are all screenshots used in the README.md.<br>
 Ending with the README.md
+
+### Deployment left to be implemented
+After this page is checked by the examinators, I will make the locations pages private in GitHub for the protection of my API key's.
 
 ### New Repository in GitHub
 First you need an account on [GitHub](https://github.com) which you can download from [here](https://desktop.github.com).<br>
