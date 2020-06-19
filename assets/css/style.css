@@ -93,6 +93,10 @@ header {
     background: url("../images/header_image.png") no-repeat center center;
 }
 
+#welcome{
+  text-align: center;
+  color: black;
+}
 
 /*     HEADER TEXT    */
 
@@ -100,7 +104,6 @@ header {
   margin-top: 30px;
   margin-bottom: 30px;
 }
-
 
 /*    INDEX ENDING IMAGES      */
 
@@ -142,7 +145,6 @@ header {
 .signup_styling {
   text-decoration: underline;
 }
-
 
 /*     LOCATION HOORN      */
 
@@ -204,7 +206,6 @@ header {
   padding-top: 20px;
 }
 
-
 /*     LOCATION ZAANDAM    */
 
 .zaandam_top{
@@ -235,8 +236,6 @@ header {
   padding-top: 20px;
 }
 
-
-
 /*     SIGNUP IMAGE     */
 
 .form-section {
@@ -247,11 +246,10 @@ header {
     height: 650px;
 }
 
-
 /*     SIGNUP FORM     */
 
 .signup-form {
-  margin-top: 20px;
+  margin-top: 10px;
   color: #fff;
   background-color: #292828b2;
   width: 500px;
@@ -262,7 +260,7 @@ header {
 
 .form_title {
   text-shadow: 1px 1px white;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
   color: #bf9b30;
   font-size: 35px;
 }
@@ -281,7 +279,7 @@ header {
 }
 
 .button_styling {
-  margin-top: 30px;
+  margin-top: 20px;
   border-radius: 2px;
   padding: 8px 25px 8px 25px;
   text-align: center;
@@ -311,7 +309,6 @@ header {
   color: #bf9b30;
 }
 
-
 /*     FOOTER      */
 
 .social-networks{
@@ -331,7 +328,6 @@ header {
     color: #777777;
 }
 
-
 /*    THANK YOU    */
 
 .thankyou_image{
@@ -339,113 +335,6 @@ header {
     width: 100%;
     background: url("../images/thankyou.jpg") no-repeat center center;
 }
-
-/*  HOVER OVER QUOTES  */
-
-.tooltip1 {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip1 .tooltiptext1 {
-  visibility: hidden;
-  width: 380px;
-  background-color: #292828b2;
-  color: #fff;
-  text-align: center;
-  border-radius: 15px;
-  padding: 5px 0;
-  margin-left: 20px;
-  margin-top: 20px;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip1:hover .tooltiptext1 {
-  visibility: visible;
-}
-
-/*  TOOLTIP2  */
-
-.tooltip2 {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip2 .tooltiptext2 {
-  visibility: hidden;
-  width: 180px;
-  background-color: #292828b2;
-  color: #fff;
-  text-align: center;
-  border-radius: 15px;
-  padding: 5px 0;
-  margin-left: 20px;
-  margin-top: 20px;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip2:hover .tooltiptext2 {
-  visibility: visible;
-}
-
-/*  TOOLTIP3  */
-
-.tooltip3 {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip3 .tooltiptext3 {
-  visibility: hidden;
-  width: 220px;
-  background-color: #292828b2;
-  color: #fff;
-  text-align: center;
-  border-radius: 15px;
-  padding: 5px 0;
-  margin-left: 20px;
-  margin-top: 20px;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip3:hover .tooltiptext3 {
-  visibility: visible;
-}
-
-/*  TOOLTIP4  */
-
-.tooltip4 {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip4 .tooltiptext4 {
-  visibility: hidden;
-  width: 300px;
-  background-color: #292828b2;
-  color: #fff;
-  text-align: center;
-  border-radius: 15px;
-  padding: 5px 0;
-  margin-left: 20px;
-  margin-top: 20px;
-  position: absolute;
-  z-index: 1;
-}
-
-.tooltip4:hover .tooltiptext4 {
-  visibility: visible;
-}
-
-
-
 
 
 /*    @media index.html   */
@@ -485,8 +374,9 @@ header {
   }
 
   .social-networks i {
-    font-size: 20px;
-    padding-left: 4px;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
   }
 
   /*    @media locations.html    */
@@ -499,8 +389,6 @@ header {
     font-size: 25px;
   }
   
-
-
   /*    @media signup.html    */
 
   .signup-form {
@@ -542,8 +430,9 @@ header {
       background-size: cover;
   }
   .social-networks i{
-    padding-left: 5px;
-    padding-right: 5px;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 
@@ -559,7 +448,6 @@ header {
       background-size: cover;
   }
 }
- 
 
    /*   GOOGLE MAPS ALKMAAR   */
 
@@ -615,7 +503,6 @@ header {
         width: 200px;
 }
 
-
    /*   GOOGLE MAPS HOORN   */
 
 #map_hoorn {
@@ -670,7 +557,6 @@ header {
 
         width: 200px;
 }
-
 
    /*   GOOGLE MAPS ZAANDAM   */
 
