@@ -164,7 +164,7 @@ No menu item will be active on this page.
 ### Mockups
 The following wireframes were created using Balsamiq to design the website layout options:
 <br>
-[Small devices](assets/mockups/YogaCityLarge.pdf)<br>
+[Small devices](assets/mockups/YogaCitySmall.pdf)<br>
 [Medium devices](assets/mockups/YogaCityMedium.pdf)<br>
 [Large devices](assets/mockups/YogaCityLarge.pdf)
 
